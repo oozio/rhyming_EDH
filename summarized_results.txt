@@ -1,0 +1,3476 @@
+413 - Abduction
+156 - Altar's Light
+133 - Akiri, Line-Slinger
+133 - Abzan Beastmaster
+122 - Acidic Sliver
+117 - Angelic Curator
+113 - Academy Raider
+113 - Abeyance
+105 - Abstruse Interference
+101 - Aerial Responder
+94 - Acid-Spewer Dragon
+89 - Aether Figment
+88 - Alloy Golem
+84 - Ahn-Crop Crasher
+84 - Act of Aggression
+80 - Air Elemental
+78 - Academy Journeymage
+74 - Aether Searcher
+71 - Adorned Pouncer
+70 - Aetherling
+69 - Advent of the Wurm
+67 - Abzan Kin-Guard
+66 - Azorius Cluestone
+65 - Abyssal Nightstalker
+65 - Akki Rockspeaker
+62 - Academy Drake
+62 - Aggressive Mining
+60 - Axegrinder Giant
+59 - Admonition Angel
+58 - Battle Brawler
+58 - Alabaster Mage
+55 - Aliban's Tower
+52 - Arc Blade
+52 - Adverse Conditions
+51 - Abyssal Gatekeeper
+50 - Abyssal Hunter
+49 - Archweaver
+47 - Accursed Spirit
+46 - Advocate of the Beast
+45 - Academy Rector
+45 - Ahn-Crop Champion
+45 - Abzan Charm
+45 - Accorder's Shield
+43 - Abzan Skycaptain
+43 - Angrath's Marauders
+42 - Brink of Madness
+41 - Ancient Stirrings
+40 - Ancient Spring
+40 - Anurid Barkripper
+40 - Ambuscade Shaman
+39 - Akroma's Blessing
+39 - Abzan Banner
+39 - Alchemist's Apprentice
+39 - Agility
+38 - Acridian
+38 - Akroan Crusader
+38 - Aether Storm
+37 - Aether Barrier
+37 - Animate Dead
+37 - Aphetto Vulture
+36 - Barbarian Riftcutter
+36 - Affa Guard Hound
+36 - Abyssal Horror
+35 - Abbey Griffin
+35 - Adarkar Sentinel
+35 - Chandra, Flamecaller
+35 - Artifact Blast
+35 - Alesha, Who Smiles at Death
+35 - Akoum Flameseeker
+35 - Assassin's Strike
+34 - Bitterblade Warrior
+34 - Aggravated Assault
+34 - Aradara Express
+33 - Aeronaut Tinkerer
+33 - Aggressive Mammoth
+33 - Argothian Elder
+32 - Angelic Purge
+32 - Ballista Charger
+32 - Aetherflame Wall
+32 - Allied Reinforcements
+32 - Bloodbond March
+31 - Anaba Spirit Crafter
+31 - Aura Thief
+31 - Annihilating Fire
+31 - Barter in Blood
+31 - Aerathi Berserker
+31 - Badlands
+30 - Auriok Bladewarden
+30 - Ancient Hydra
+30 - Alert Shu Infantry
+30 - Abuna's Chant
+30 - Avenging Druid
+29 - Anchor to the Aether
+29 - Advance Scout
+29 - Arrogant Vampire
+29 - Argentum Armor
+29 - Akroan Conscriptor
+29 - Blitz Hellion
+28 - Despotic Scepter
+28 - Asylum Visitor
+28 - Accursed Centaur
+28 - Aether Charge
+27 - Arms Dealer
+27 - Ballot Broker
+27 - Akroma, Angel of Fury
+27 - Armillary Sphere
+27 - Abattoir Ghoul
+27 - Ainok Tracker
+27 - Act of Authority
+26 - Contagion Engine
+26 - Abundant Growth
+26 - Accessories to Murder
+26 - Aether Sting
+26 - Auntie's Snitch
+26 - Archive Trap
+26 - Aerie Bowmasters
+26 - Arjun, the Shifting Flame
+26 - Alloy Myr
+25 - Abhorrent Overlord
+25 - Air Servant
+25 - Alpha Kavu
+25 - Ainok Survivalist
+25 - Drake Familiar
+25 - Absolute Grace
+25 - Barrage Ogre
+25 - Aethersnatch
+25 - Cephalid Illusionist
+24 - Aku Djinn
+24 - Bog Serpent
+24 - Arcbound Fiend
+24 - Argivian Blacksmith
+24 - Ana Sanctuary
+24 - Academy Elite
+24 - Azorius Guildgate
+24 - Arctic Merfolk
+24 - Bog Rats
+23 - Char-Rumbler
+23 - Ajani Unyielding
+23 - Abzan Guide
+23 - Ancient Brontodon
+23 - Abzan Falconer
+23 - Albino Troll
+23 - Accomplished Automaton
+23 - Ashnod's Transmogrant
+23 - Balduvian Rage
+22 - Aleatory
+22 - Eyeblight Assassin
+22 - Angel of Serenity
+22 - Dauthi Slayer
+22 - Accorder Paladin
+22 - Brute Strength
+22 - Atarka's Command
+22 - Bog Imp
+21 - Blackcleave Goblin
+21 - Assault // Battery
+21 - Conversion Chamber
+21 - Baleful Force
+21 - Border Patrol
+21 - Bastion Inventor
+21 - Apocalypse Demon
+21 - Deepwood Drummer
+21 - Changeling Titan
+21 - Accelerate
+21 - Akoum Hellkite
+21 - Cathedral of War
+20 - Backwoods Survivalists
+20 - Benalish Emissary
+20 - Archetype of Courage
+20 - Academy Researchers
+20 - Chilling Shade
+20 - Basalt Gargoyle
+20 - Auriok Steelshaper
+20 - Accumulated Knowledge
+20 - Aspect of Wolf
+20 - Abzan Battle Priest
+20 - Breath of Dreams
+19 - Benefactor's Draught
+19 - Atzocan Seer
+19 - Arbor Colossus
+19 - Ancestral Mask
+19 - Blinding Drone
+19 - Abyssal Specter
+19 - Alley Strangler
+19 - Apprentice Wizard
+19 - Diabolic Machine
+19 - Baleful Strix
+19 - Apothecary Initiate
+19 - Balustrade Spy
+19 - Adeliz, the Cinder Wind
+19 - Carnival of Souls
+18 - Adamant Will
+18 - Ancient Amphitheater
+18 - Agadeem Occultist
+18 - Blink of an Eye
+18 - Blazethorn Scarecrow
+18 - Backfire
+18 - Aether Adept
+18 - Abandon Hope
+18 - Aetherborn Marauder
+18 - Agonizing Memories
+18 - Aerie Worshippers
+18 - Apothecary Geist
+17 - Bleak Coven Vampires
+17 - Awe for the Guilds
+17 - Bifurcate
+17 - Arcbound Ravager
+17 - Aphetto Alchemist
+17 - Better Than One
+17 - Aspiring Aeronaut
+17 - Argent Sphinx
+17 - Adarkar Unicorn
+17 - Alhammarret, High Arbiter
+17 - Boiling Earth
+17 - Arctic Wolves
+17 - Arbor Elf
+17 - An-Havva Township
+17 - Bellowing Aegisaur
+17 - Aether Burst
+17 - Buried Ruin
+17 - Briarknit Kami
+17 - Blessing of Leeches
+17 - An-Havva Constable
+17 - Arcades, the Strategist
+17 - Benalish Cavalry
+17 - Coiling Oracle
+17 - Consul's Lieutenant
+17 - Bellowing Saddlebrute
+16 - Ambush Viper
+16 - Angelic Edict
+16 - Acorn Harvest
+16 - Cackling Flames
+16 - Annihilate
+16 - Atarka Pummeler
+16 - Aura Graft
+16 - Colossapede
+16 - Batterhorn
+16 - Curse of the Bloody Tome
+16 - Brass-Talon Chimera
+16 - Chicken Egg
+16 - Beast Hunt
+16 - City in a Bottle
+16 - Aerial Engineer
+16 - Crown of the Ages
+16 - All Suns' Dawn
+16 - Acidic Dagger
+16 - Aven Shrine
+15 - Angel's Herald
+15 - Aethershield Artificer
+15 - Disciple of Malice
+15 - Chimeric Staff
+15 - Ashenmoor Liege
+15 - Battle Strain
+15 - Artisan's Sorrow
+15 - Disease Carriers
+15 - Charmed Pendant
+15 - Athreos, God of Passage
+15 - Amrou Seekers
+15 - Afiya Grove
+15 - Baffling End
+15 - Assassinate
+15 - Ammit Eternal
+15 - Cystbearer
+15 - Alaborn Grenadier
+15 - Circle of Protection: Shadow
+15 - Belbe's Portal
+15 - Benthicore
+15 - Aethergeode Miner
+15 - Auriok Salvagers
+15 - Abyssal Persecutor
+15 - Arachnogenesis
+15 - Bonded Construct
+15 - Arcane Spyglass
+14 - Diamond Faerie
+14 - Casting of Bones
+14 - Arrest
+14 - Boldwyr Heavyweights
+14 - Aerie Mystics
+14 - Aether Tradewinds
+14 - Balduvian Conjurer
+14 - Avatar of Slaughter
+14 - Battlefield Forge
+14 - Dregscape Zombie
+14 - Arbiter of Knollridge
+14 - Dragonscale Boon
+14 - Amber Prison
+14 - Advanced Stitchwing
+14 - Artifact Ward
+14 - Bishop of Rebirth
+14 - Aethermage's Touch
+14 - Akroan Jailer
+14 - Celestial Mantle
+14 - Ancient Silverback
+14 - Battle Squadron
+14 - Blister Beetle
+14 - Blatant Thievery
+14 - Contraption Cannon
+14 - Artificer's Assistant
+14 - Avoid Fate
+14 - Caller of the Pack
+14 - Armageddon Clock
+14 - Barbarian General
+14 - Alchor's Tomb
+14 - Chaos Orb
+14 - Ashcloud Phoenix
+14 - Cyclopean Snare
+14 - Blighted Agent
+14 - Atarka Efreet
+13 - Anthousa, Setessan Hero
+13 - Gemstone Mine
+13 - Baki's Curse
+13 - Choking Vines
+13 - Balduvian Bears
+13 - Aura of Dominion
+13 - Aether Web
+13 - Alpine Moon
+13 - Body Double
+13 - Cloud Sprite
+13 - Bloodfell Caves
+13 - Brand
+13 - Ampryn Tactician
+13 - Armor of Faith
+13 - Change of Heart
+13 - Blossom Dryad
+13 - Chaoslace
+13 - Aladdin's Ring
+13 - Dakra Mystic
+13 - Avarice Amulet
+13 - Breath of Life
+13 - Aerial Volley
+12 - Blastfire Bolt
+12 - Angelic Favor
+12 - Branchsnap Lorian
+12 - Aether Flash
+12 - Carrion
+12 - Bastion Enforcer
+12 - Appetite for Brains
+12 - Arcbound Bruiser
+12 - Dueling Grounds
+12 - Call to Mind
+12 - Avarice Totem
+12 - Cave Tiger
+12 - Alexi's Cloak
+12 - Distorting Lens
+12 - Barl's Cage
+12 - Ashes of the Fallen
+12 - Angelic Field Marshal
+12 - Angelic Destiny
+12 - Cadaverous Bloom
+12 - Abzan Ascendancy
+12 - Durkwood Baloth
+12 - Barkhide Mauler
+12 - Barren Glory
+12 - Burn Away
+12 - Anowon, the Ruin Sage
+12 - Binding Grasp
+12 - Daggerback Basilisk
+12 - Chalice of the Void
+12 - Benalish Missionary
+12 - Borderland Explorer
+12 - Blinding Flare
+12 - Ashling's Prerogative
+12 - Calming Licid
+12 - Accursed Horde
+12 - Abandoned Outpost
+12 - Adarkar Wastes
+12 - Brain Weevil
+12 - Abandoned Sarcophagus
+12 - Arctic Aven
+11 - Clockwork Swarm
+11 - Aven Soulgazer
+11 - Aetherplasm
+11 - Bay Falcon
+11 - Animal Boneyard
+11 - Angelic Renewal
+11 - Azor's Elocutors
+11 - Ant Queen
+11 - Commit // Memory
+11 - Ashen Monstrosity
+11 - All Is Dust
+11 - Abzan Runemark
+11 - Boulderfall
+11 - Bottomless Pit
+11 - Darksteel Axe
+11 - Amphin Cutthroat
+11 - Alliance of Arms
+11 - Broken Bond
+11 - Caller of Gales
+11 - Bear Umbra
+11 - Blighted Woodland
+11 - Celestial Sword
+11 - Brightstone Ritual
+11 - Aquus Steed
+11 - Archon of Valor's Reach
+11 - Arcane Artisan
+11 - Bottle Gnomes
+11 - Akroan Horse
+11 - Abzan Advantage
+11 - Crystal Shard
+11 - Aethersquall Ancient
+11 - Azorius Signet
+11 - Beck // Call
+11 - Approach of the Second Sun
+10 - Ajani, Caller of the Pride
+10 - Clear a Path
+10 - Hematite Talisman
+10 - Din of the Fireherd
+10 - Debt to the Deathless
+10 - Bant Sojourners
+10 - Brace for Impact
+10 - Disruptive Student
+10 - Charging Rhino
+10 - Center Soul
+10 - Acorn Catapult
+10 - Devout Monk
+10 - Beacon of Tomorrows
+10 - Curse of Chaos
+10 - Arashin Sovereign
+10 - Deathbloom Thallid
+10 - Chromatic Star
+10 - Chittering Doom
+10 - Aurora Eidolon
+10 - Brontotherium
+10 - Anavolver
+10 - Adarkar Windform
+10 - Callous Oppressor
+10 - Birthing Hulk
+10 - Dakmor Plague
+10 - Arcbound Slith
+10 - Assemble the Legion
+10 - Auriok Replica
+10 - Blood Mist
+10 - Bioshift
+10 - Bladed Bracers
+10 - Ashes to Ashes
+10 - Battlegate Mimic
+10 - Deserted Temple
+10 - Battering Krasis
+10 - Angelic Overseer
+10 - Ana Disciple
+10 - Angel of Despair
+10 - Alaborn Zealot
+10 - Arborback Stomper
+10 - Bloodcurdling Scream
+10 - Breaking Wave
+10 - Altar of Shadows
+10 - Alabaster Leech
+10 - Chaos Wand
+10 - Atogatog
+10 - Bog Smugglers
+10 - Dakmor Salvage
+10 - Bloodrock Cyclops
+9 - Azorius Keyrune
+9 - Echoes of the Kin Tree
+9 - Aether Tide
+9 - Air Bladder
+9 - Bearscape
+9 - Artful Looter
+9 - Academy Ruins
+9 - Act on Impulse
+9 - Expose Evil
+9 - Augur il-Vec
+9 - Deadly Recluse
+9 - Cerebral Vortex
+9 - Endoskeleton
+9 - Cabal Stronghold
+9 - Betrayal of Flesh 
+9 - Agrus Kos, Wojek Veteran
+9 - Army of the Damned
+9 - Dross Crocodile
+9 - Aether Spellbomb
+9 - Blighted Cataract
+9 - Ashcoat Bear
+9 - Absolver Thrull
+9 - Ajani's Last Stand
+9 - Ancient Runes
+9 - Death Charmer
+9 - Ajani's Chosen
+9 - Aether Swooper
+9 - Chimeric Idol
+9 - Battle Cry
+9 - Cabal Surgeon
+9 - Acquire
+9 - Ancient Ooze
+9 - Alive // Well
+9 - Ancient Crab
+9 - Dream Halls
+9 - Balloon Peddler
+9 - Aura Shards
+9 - Ego Erasure
+9 - Forsaken City
+9 - Aligned Hedron Network
+9 - Cannibalize
+9 - Acolyte's Reward
+9 - Arcane Denial
+9 - Cantivore
+9 - Abuna Acolyte
+8 - Citadel of Pain
+8 - False Peace
+8 - Blast of Genius
+8 - Genju of the Realm
+8 - Ancestral Statue
+8 - Favor of the Woods
+8 - Cerulean Wyvern
+8 - Aether Rift
+8 - Ageless Entity
+8 - Charcoal Diamond
+8 - Ambush
+8 - Agent of the Fates
+8 - Demigod of Revenge
+8 - Abandon Reason
+8 - Disappear
+8 - Clash of Realities
+8 - Acrobatic Maneuver
+8 - Ashenmoor Cohort
+8 - Epochrasite
+8 - Bant Panorama
+8 - Blood Rites
+8 - Deadshot
+8 - Angelic Rocket
+8 - Carrion Feeder
+8 - Remote Isle
+8 - Behold the Beyond
+8 - Angry Mob
+8 - Angelic Gift
+8 - Ajani's Pridemate
+8 - Ballista Squad
+8 - Damnable Pact
+8 - Expendable Troops
+8 - Crested Sunmare
+8 - Ajani, Adversary of Tyrants
+8 - Drake Haven
+8 - Aegis of the Gods
+8 - Banishment Decree
+8 - Autumn's Veil
+8 - Chief of the Foundry
+8 - Aether Theorist
+8 - Ajani's Sunstriker
+8 - Aether Chaser
+8 - Cateran Summons
+8 - Dread Return
+8 - Antler Skulkin
+8 - Adriana's Valor
+8 - Enter the Infinite
+8 - Camouflage
+8 - Alaborn Cavalier
+8 - Blast from the Past
+8 - Conch Horn
+8 - Glimpse the Sun God
+8 - Aboshan's Desire
+8 - Fleecemane Lion
+8 - Crackling Perimeter
+8 - Autumn Willow
+8 - Argothian Swine
+8 - Drowner of Secrets
+8 - Desperate Gambit
+8 - Death Bomb
+8 - Animate Artifact
+8 - Cemetery Gate
+8 - Barbarian Outcast
+8 - Curse of the Forsaken
+8 - Always Watching
+8 - Arahbo, Roar of the World
+8 - Become Immense
+8 - Crazed Skirge
+8 - Coastal Hornclaw
+8 - Aethertorch Renegade
+8 - Call to the Grave
+8 - Essence Filter
+7 - Ghoulcaller's Bell
+7 - Burning Sun's Avatar
+7 - Cliffside Lookout
+7 - Barbarian Lunatic
+7 - Call of the Wild
+7 - Benthic Explorers
+7 - Blind Phantasm
+7 - Armored Skaab
+7 - Armored Pegasus
+7 - Avatar of the Resolute
+7 - Arcum's Whistle
+7 - Black Scarab
+7 - Astral Slide
+7 - Bog Down
+7 - Denizen of the Deep
+7 - Arcane Sanctum
+7 - Infiltrator il-Kor
+7 - Aura Flux
+7 - Darkslick Shores
+7 - Bountiful Promenade
+7 - Chandra's Pyrohelix
+7 - Absolute Law
+7 - Cogworker's Puzzleknot
+7 - Airdrop Condor
+7 - Blood-Toll Harpy
+7 - Bellowing Tanglewurm
+7 - Betrayal
+7 - Birds of Paradise
+7 - Arashin Cleric
+7 - Celestial Prism
+7 - Chicken à la King
+7 - Charmbreaker Devils
+7 - Ajani Vengeant
+7 - Cruel Revival
+7 - Enlightened Ascetic
+7 - Burning Wish
+7 - Box of Free-Range Goblins
+7 - Alhammarret's Archive
+7 - Akoum Refuge
+7 - Arisen Gorgon
+7 - Avenger en-Dal
+7 - Barreling Attack
+7 - Force Bubble
+7 - Black Market
+7 - Colfenor's Plans
+7 - Ankle Shanker
+7 - Ashling the Pilgrim
+7 - Agonizing Demise
+7 - Call the Bloodline
+7 - Corrupted Resolve
+7 - Cankerous Thirst
+7 - Blinkmoth Nexus
+7 - Burning Fields
+7 - Akroma, Angel of Wrath
+7 - Creeping Dread
+7 - Blood Crypt
+7 - Force Spike
+7 - Crypt Cobra
+7 - Binding Mummy
+7 - Canopy Claws
+7 - Coalition Relic
+7 - Magus of the Unseen
+6 - Aegis of the Meek
+6 - Clutch of the Undercity
+6 - Living Hive
+6 - Goldenhide Ox
+6 - Carapace
+6 - Blood Host
+6 - Acid Rain
+6 - Alaborn Musketeer
+6 - Breeding Pool
+6 - Emblem of the Warmind
+6 - Diluvian Primordial
+6 - Final Fortune
+6 - Caller of the Claw
+6 - Amulet of Vigor
+6 - Eye of Ramos
+6 - Blacker Lotus
+6 - Ambitious Aetherborn
+6 - Flesh Carver
+6 - Adorable Kitten
+6 - Anaba Ancestor
+6 - Circling Vultures
+6 - Crumble
+6 - Curious Killbot
+6 - Simulacrum
+6 - Fencer Clique
+6 - Energizer
+6 - Distorting Wake
+6 - Axebane Stag
+6 - Encase in Ice
+6 - Cataclysmic Gearhulk
+6 - Bloodshed Fever
+6 - Draconic Roar
+6 - Corrupted Roots
+6 - Claws of Wirewood
+6 - Ash Barrens
+6 - Court Homunculus
+6 - Basandra, Battle Seraph
+6 - Cloud Key
+6 - Grave Robbers
+6 - Deadbridge Goliath
+6 - Dark Maze
+6 - Blaze
+6 - Dark Supplicant
+6 - Chaos Lord
+6 - Chandra's Defeat
+6 - Clear Shot
+6 - Amulet of Unmaking
+6 - Lay Claim
+6 - Goblin Chariot
+6 - Blaze Commando
+6 - Custodi Lich
+6 - Darksteel Citadel
+6 - Feiyi Snake
+6 - Eternity Vessel
+6 - Blooming Marsh
+6 - Akroan Phalanx
+6 - Alabaster Kirin
+6 - Decree of Savagery
+6 - Bladetusk Boar
+6 - Coral Net
+6 - Bad Ass
+6 - Barrage of Expendables
+6 - Corpse Lunge
+6 - Arvad the Cursed
+6 - Dark Triumph
+6 - Avacyn's Collar
+6 - Brass's Bounty
+6 - Dismantling Blow
+6 - Capashen Templar
+6 - Creepy Doll
+6 - Blur of Blades
+6 - Assault Strobe
+6 - Beloved Chaplain
+6 - Dauntless Cathar
+6 - Armor of Thorns
+6 - Blistering Firecat
+6 - Diamond Kaleidoscope
+6 - Cast Out
+6 - Aven Augur
+6 - Ambiguity
+6 - Banishing Stroke
+6 - Augury Owl
+6 - Beacon Hawk
+6 - Ashnod's Altar
+6 - Consuming Vapors
+6 - Duplication Device
+6 - Blessing of the Nephilim
+6 - Akroma's Memorial
+6 - Chimeric Coils
+6 - Black Cat
+6 - Canopy Cover
+6 - Champion of Dusk
+6 - Chief of the Edge
+6 - Dark Depths
+6 - Bend or Break
+6 - Deglamer
+6 - Ashen-Skin Zubera
+6 - Echoing Truth
+6 - Adventurers' Guildhouse
+6 - Fatal Lore
+6 - Boggart Birth Rite
+6 - Builder's Bane
+6 - Greater Gargadon
+5 - Guardian of the Great Conduit
+5 - Aurochs Herd
+5 - Adder-Staff Boggart
+5 - Frost Lynx
+5 - Aether Membrane
+5 - Ballyrush Banneret
+5 - Abbot of Keral Keep
+5 - Dwarven Song
+5 - Defensive Maneuvers
+5 - Fierce Empath
+5 - Dreamborn Muse
+5 - Deranged Whelp
+5 - Chatter of the Squirrel
+5 - Deputy of Acquittals
+5 - Beguiler of Wills
+5 - Chemister's Trick
+5 - Aphotic Wisps
+5 - Confusion in the Ranks
+5 - Baral's Expertise
+5 - Angel of the God-Pharaoh
+5 - Demonspine Whip
+5 - Calciform Pools
+5 - Ambuscade
+5 - City of Solitude
+5 - Path of Ancestry
+5 - Altar of Bone
+5 - Into the Core
+5 - Keeper of the Sacred Word
+5 - Break of Day
+5 - Bear Cub
+5 - Carnophage
+5 - Angelic Accord
+5 - Harm's Way
+5 - Mad Science Fair Project
+5 - Brazen Buccaneers
+5 - Call of the Conclave
+5 - Alpha Status
+5 - Blighted Bat
+5 - Emberstrike Duo
+5 - Crystal Quarry
+5 - Court Street Denizen
+5 - Brain in a Jar
+5 - Augur of Bolas
+5 - Artificer's Hex
+5 - Cast Through Time
+5 - Burden of Greed
+5 - Bronze Tablet
+5 - Blinkmoth Urn
+5 - Blazing Blade Askari
+5 - Aqueous Form
+5 - Anti-Magic Aura
+5 - Aerial Caravan
+5 - Caribou Range
+5 - Blood Vassal
+5 - Feral Ridgewolf
+5 - Chancellor of the Tangle
+5 - Gutwrencher Oni
+5 - Mizzium Mortars
+5 - Raging Swordtooth
+5 - Deep Spawn
+5 - Acidic Slime
+5 - Highway Robber
+5 - Geistcatcher's Rig
+5 - Errand of Duty
+5 - Ephemeron
+5 - Devastate
+5 - Devil's Play
+5 - Channel the Suns
+5 - Famine
+5 - Battle Frenzy
+5 - Ashen Powder
+5 - Aven Redeemer
+5 - Dark Heart of the Wood
+5 - Barbed Foliage
+5 - Breaching Leviathan
+5 - Echo Tracer
+5 - Army Ants
+5 - Blood Pet
+5 - Aetherstorm Roc
+5 - Gelid Shackles
+5 - Engineered Explosives
+5 - Incite Hysteria
+5 - Comparative Analysis
+5 - Canal Dredger
+5 - Call to Serve
+5 - Animate Land
+5 - Diamond Mare
+5 - Bronze Calendar
+5 - Cartel Aristocrat
+5 - Illusionary Forces
+5 - Aetherize
+5 - Lotus Vale
+5 - Earthbind
+5 - Debt of Loyalty
+5 - Enlightened Maniac
+5 - Alluring Siren
+5 - Apes of Rath
+5 - Champion's Helm
+5 - Atraxa, Praetors' Voice
+5 - Circle of Protection: Green
+5 - Burning-Tree Bloodscale
+5 - Flame Lash
+5 - Bronze Bombshell
+5 - Goldmeadow Stalwart
+5 - Hungering Yeti
+5 - Blood Tithe
+5 - Aeolipile
+5 - Agent of Erebos
+5 - Cathedral Sanctifier
+5 - Aether Tunnel
+5 - Mystic Compass
+5 - Flames of the Blood Hand
+4 - Dwarven Demolition Team
+4 - Binding Agony
+4 - Consult the Necrosages
+4 - Ageless Sentinels
+4 - Benediction of Moons
+4 - Gerrard's Irregulars
+4 - Scavenged Weaponry
+4 - Glass Asp
+4 - Blinding Spray
+4 - Ancient Grudge
+4 - Crash the Ramparts
+4 - Blessed Reversal
+4 - Ancestor's Prophet
+4 - Corrupted Zendikon
+4 - Incendiary
+4 - Bargain
+4 - Ghost Quarter
+4 - Caravan Escort
+4 - Chromatic Lantern
+4 - Angel of Mercy
+4 - Akron Legionnaire
+4 - Battle Rampart
+4 - Helm of Kaldra
+4 - Goblin Firebug
+4 - Mausoleum Turnkey
+4 - Carbonize
+4 - Arc Trail
+4 - Contagious Nim
+4 - Ben-Ben, Akki Hermit
+4 - Baron Von Count
+4 - Chosen by Heliod
+4 - Aeronaut Admiral
+4 - Animation Module
+4 - Broken Fall
+4 - Aether Vial
+4 - Coercion
+4 - Haru-Onna
+4 - Bite of the Black Rose
+4 - Adventuring Gear
+4 - Horned Cheetah
+4 - Coat with Venom
+4 - Electrickery
+4 - Crosis's Catacombs
+4 - Bygone Bishop
+4 - Izzet Boilerworks
+4 - Battleflight Eagle
+4 - Astral Steel
+4 - Bestial Menace
+4 - Scour
+4 - Curse of Stalked Prey
+4 - Dream Cache
+4 - Luminous Bonds
+4 - Catacomb Slug
+4 - Artisan of Forms
+4 - Goblin Game
+4 - Calming Verse
+4 - Flensermite
+4 - Brilliant Ultimatum
+4 - Common Cause
+4 - Fodder Launch
+4 - Glasses of Urza
+4 - Guard Dogs
+4 - Mercadian Atlas
+4 - Dying Wail
+4 - Delirium Skeins
+4 - Blademane Baku
+4 - Cowed by Wisdom
+4 - Bloodstone Cameo
+4 - Grove of the Burnwillows
+4 - Conqueror's Flail
+4 - Abrupt Decay
+4 - Armed Response
+4 - Cleansing Ray
+4 - Chill
+4 - Crookclaw Transmuter
+4 - Burst of Speed
+4 - Akroan Mastiff
+4 - Bloodstained Mire
+4 - Cleanse
+4 - Blazing Effigy
+4 - Ghost Ship
+4 - Abrade
+4 - Ambassador Oak
+4 - Evanescent Intellect
+4 - Akuta, Born of Ash
+4 - Mikokoro, Center of the Sea
+4 - Ashnod's Cylix
+4 - Battle-Mad Ronin
+4 - Arctic Flats
+4 - Aether Meltdown
+4 - Cloud Manta
+4 - Cursed Rack
+4 - Ancient Animus
+4 - Bog Wreckage
+4 - Daxos the Returned
+4 - Caravan Vigil
+4 - Alms of the Vein
+4 - Concordant Crossroads
+4 - Armored Whirl Turtle
+4 - Diseased Vermin
+4 - Aftershock
+4 - Armored Transport
+4 - Aspect of Mongoose
+4 - Giant Mantis
+4 - Day's Undoing
+4 - Boon of Emrakul
+4 - Aetherwind Basker
+4 - Alpha Brawl
+4 - Boon Satyr
+4 - Altar of the Lost
+4 - Frazzle
+4 - Barrin's Spite
+4 - Demonic Attorney
+4 - Capsize
+4 - Pentavus
+4 - Desert
+4 - Chimeric Mass
+4 - Cached Defenses
+4 - Barbarian Bully
+4 - Belligerent Whiptail
+4 - Drowned Rusalka
+4 - Day of the Dragons
+4 - Grinning Ignus
+4 - Barrenton Cragtreads
+4 - Arboria
+4 - Ainok Bond-Kin
+4 - Barrenton Medic
+4 - Alluring Scent
+4 - Barbarian Guides
+4 - Cinder Cloud
+4 - Eye of Ugin
+4 - Krovikan Rot
+4 - Aven Envoy
+4 - Garruk, Caller of Beasts
+4 - Carnivorous Plant
+4 - Barbed Battlegear
+4 - Guile
+4 - Arcanis the Omnipotent
+4 - Counterspell
+4 - Crumbling Necropolis
+4 - Child of Alara
+4 - Baron Sengir
+4 - Black Sun's Zenith
+4 - Manticore of the Gauntlet
+4 - Ardent Recruit
+4 - Aethertide Whale
+4 - Demonlord of Ashmouth
+4 - Akoum Boulderfoot
+4 - Break Through the Line
+4 - Chain of Plasma
+4 - Blazing Shoal
+4 - Desiccated Naga
+4 - Aegis of Honor
+4 - Elven Lyre
+4 - Banshee
+4 - Blastoderm
+4 - Beast Within
+4 - Earthquake
+4 - Archfiend of Depravity
+4 - Cathars' Crusade
+4 - Claws of Gix
+4 - Lat-Nam's Legacy
+4 - Aether Gale
+4 - Dancing Scimitar
+4 - Faerie Noble
+4 - Blood Scrivener
+4 - Aggressive Instinct
+3 - Bloodied Ghost
+3 - Metallic Rebuke
+3 - Majestic Heliopterus
+3 - Dragon Grip
+3 - Mistblade Shinobi
+3 - Decompose
+3 - Goldenglow Moth
+3 - Camel
+3 - Aggressive Urge
+3 - Gavony Unhallowed
+3 - Frenzied Fugue
+3 - Defiant Khenra
+3 - Checks and Balances
+3 - Braingeyser
+3 - Necrogen Censer
+3 - Bureaucracy
+3 - Lithomancer's Focus
+3 - God-Pharaoh's Faithful
+3 - Blustersquall
+3 - Extinguish
+3 - Cockatrice
+3 - Blazing Torch
+3 - Carrionette
+3 - Grimclaw Bats
+3 - Angrath, the Flame-Chained
+3 - Caress of Phyrexia
+3 - Butcher's Glee
+3 - Forgotten Cave
+3 - Fall of the Gavel
+3 - Anvil of Bogardan
+3 - Golgari Rot Farm
+3 - Leeching Bite
+3 - Arcum Dagsson
+3 - Captivating Crew
+3 - Deathcult Rogue
+3 - Courser of Kruphix
+3 - Evil Eye of Urborg
+3 - Galvanoth
+3 - Gift of the Gargantuan
+3 - Battle Hymn
+3 - Airborne Aid
+3 - Soul Link
+3 - Citanul Centaurs
+3 - Gemstone Array
+3 - Double Cleave
+3 - Herald of the Pantheon
+3 - Bloodshot Trainee
+3 - Griptide
+3 - Cauldron Haze
+3 - Bloodtallow Candle
+3 - Empty-Shrine Kannushi
+3 - Baneful Omen
+3 - Elemental Appeal
+3 - River Sneak
+3 - Herald of the Fair
+3 - Battering Ram
+3 - Armament of Nyx
+3 - Carrion Beetles
+3 - Ancestral Recall
+3 - Cartouche of Zeal
+3 - Abbey Matron
+3 - Aetherspouts
+3 - Butcher Orgg
+3 - Desert of the Fervent
+3 - Demonic Hordes
+3 - Chancellor of the Dross
+3 - Addle
+3 - Amulet of Kroog
+3 - Descendant of Kiyomaro
+3 - Empty City Ruse
+3 - Blighted Steppe
+3 - Anointed Deacon
+3 - Bitterblossom
+3 - Daxos of Meletis
+3 - Dragon-Style Twins
+3 - Haunter of Nightveil
+3 - Ancestral Tribute
+3 - Baloth Null
+3 - Artisan of Kozilek
+3 - Amulet of Safekeeping
+3 - Balduvian Barbarians
+3 - Acolyte of the Inferno
+3 - Cunning Advisor
+3 - Haze Frog
+3 - Eyes of the Wisent
+3 - Aggravate
+3 - Centaur Courser
+3 - Brine Hag
+3 - Marsh Boa
+3 - Dragon Roost
+3 - Curse of Echoes
+3 - Cat Warriors
+3 - Essence Feed
+3 - Crawling Filth
+3 - Goring Ceratops
+3 - Oakheart Dryads
+3 - Controlled Instincts
+3 - Horizon Scholar
+3 - Early Frost
+3 - Cephalid Vandal
+3 - Afterlife
+3 - Crushing Canopy
+3 - Keeper of Progenitus
+3 - Ambush Party
+3 - Aether Snap
+3 - Canopy Vista
+3 - Armory of Iroas
+3 - Choking Restraints
+3 - Arbiter of the Ideal
+3 - Aether Hub
+3 - Akoum Firebird
+3 - Icatian Store
+3 - Barbed Wire
+3 - Gearsmith Prodigy
+3 - Argivian Find
+3 - Arid Mesa
+3 - Caves of Koilos
+3 - Burst of Energy
+3 - Deadly Poison Sampler
+3 - Eidolon of the Great Revel
+3 - Lifted by Clouds
+3 - Ajani, Mentor of Heroes
+3 - Leyline Phantom
+3 - Dwarven Grunt
+3 - Golem-Skin Gauntlets
+3 - General's Regalia
+3 - Magus of the Abyss
+3 - Last Kiss
+3 - Mindstorm Crown
+3 - Magnetic Theft
+3 - Blazing Archon
+3 - Desert of the Mindful
+3 - Goblin Settler
+3 - Daring Leap
+3 - Backup Plan
+3 - Morkrut Necropod
+3 - Clone
+3 - Dagger of the Worthy
+3 - Aeon Chronicler
+3 - Bramblecrush
+3 - Blood Oath
+3 - Clifftop Retreat
+3 - Bonded Fetch
+3 - Roast
+3 - Basking Rootwalla
+3 - Diminish
+3 - Agent of Horizons
+3 - Bull Rush
+3 - Feral Contest
+3 - Lashknife
+3 - Avenger of Zendikar
+3 - Legion Conquistador
+3 - Half-Kitten, Half-
+3 - Arcbound Reclaimer
+3 - Amnesia
+3 - Laquatus's Disdain
+3 - Departed Deckhand
+3 - Arcbond
+3 - Deadly Tempest
+3 - Claws of Valakut
+3 - Pitiless Vizier
+3 - Dwarven Nomad
+3 - Gargantuan Gorilla
+3 - Rhystic Scrying
+3 - Carpet of Flowers
+3 - Admiral Beckett Brass
+3 - Brain Freeze
+3 - Flamecast Wheel
+3 - Errant Doomsayers
+3 - Acceptable Losses
+3 - Golgari Decoy
+3 - Awakening Zone
+3 - Agony Warp
+3 - Arterial Flow
+3 - Cavern Thoctar
+3 - Agoraphobia
+3 - Burning Oil
+3 - Commando Raid
+3 - Cascade Bluffs
+3 - Charm School
+3 - Blightwidow
+3 - Epic Struggle
+3 - Commune with Lava
+3 - Pathrazer of Ulamog
+3 - Giant Shark
+3 - Crackling Triton
+3 - Blackcleave Cliffs
+3 - Bloated Toad
+3 - Nomads' Assembly
+3 - Elkin Lair
+3 - Distant Melody
+3 - Feisty Stegosaurus
+3 - Aetherstream Leopard
+3 - Auriok Survivors
+3 - Golgari Thug
+3 - Disharmony
+3 - Death's Approach
+3 - Bushi Tenderfoot // Kenzo the Hardhearted
+3 - Eyes in the Skies
+3 - Crystal Chimes
+3 - Flame Jet
+3 - Coral Eel
+3 - Dr. Julius Jumblemorph
+3 - Goblin Artillery
+3 - Harbor Bandit
+3 - Anticipate
+3 - Free-Range Chicken
+3 - Archangel of Thune
+3 - Dirty Rat
+3 - Horror of Horrors
+3 - Eternal of Harsh Truths
+2 - No Rest for the Wicked
+2 - Blinding Fog
+2 - Teferi, Hero of Dominaria
+2 - Bar the Door
+2 - Rogue's Gloves
+2 - Fretwork Colony
+2 - Fists of the Anvil
+2 - Collective Effort
+2 - Goblin Offensive
+2 - Pillar of Origins
+2 - Kami of Lunacy
+2 - Intruder Alarm
+2 - Blood Bairn
+2 - Scourge of Fleets
+2 - Deicide
+2 - Clergy of the Holy Nimbus
+2 - Bloodspore Thrinax
+2 - Arcane Melee
+2 - Fissure Vent
+2 - Annex
+2 - Fleetfeather Sandals
+2 - Mogg Conscripts
+2 - Jace, Cunning Castaway
+2 - Curse of Death's Hold
+2 - Auntie's Hovel
+2 - Monomania
+2 - Consuming Sinkhole
+2 - Cabal Coffers
+2 - Cloudskate
+2 - Reknit
+2 - Ghost Town
+2 - Daghatar the Adamant
+2 - Dormant Gomazoa
+2 - Defense Grid
+2 - Goblin Rally
+2 - Earthlink
+2 - Cunning Survivor
+2 - Crippling Fatigue 
+2 - Brainspoil
+2 - Active Volcano
+2 - Blistercoil Weird
+2 - Deadhead
+2 - Gutter Skulk
+2 - Balancing Act
+2 - Rakdos Ragemutt
+2 - Ghirapur Orrery
+2 - Krark's Other Thumb
+2 - Bloodfire Dwarf
+2 - Send to Sleep
+2 - Acidic Soil
+2 - Bright Reprisal
+2 - Grazing Kelpie
+2 - Ingot Chewer
+2 - Mind Swords
+2 - Captain's Hook
+2 - Enchanted Being
+2 - Delif's Cube
+2 - Cryptic Gateway
+2 - Pillar of the Paruns
+2 - Courier's Capsule
+2 - Dead Drop
+2 - Angel of the Dire Hour
+2 - Blisterpod
+2 - Desert of the True
+2 - Disentomb
+2 - Flagstones of Trokair
+2 - Abundant Maw
+2 - Deluge
+2 - Goblin Dynamo
+2 - Memory Lapse
+2 - Chain of Acid
+2 - Coral Reef
+2 - Bull Hippo
+2 - Master Apothecary
+2 - Blazing Salvo
+2 - Aetherflux Reservoir
+2 - Fanatic of Mogis
+2 - Havoc
+2 - Fortified Area
+2 - Colossal Majesty
+2 - Horn of Plenty
+2 - Desolation Twin
+2 - Godtracker of Jund
+2 - Pollen Remedy
+2 - Collective Restraint
+2 - Journey for the Elixir
+2 - Aviary Mechanic
+2 - Arena
+2 - Daughter of Autumn
+2 - Bojuka Brigand
+2 - Gem of Becoming
+2 - Aegis of the Heavens
+2 - Corpseweft
+2 - Chandra Nalaar
+2 - Fire Bowman
+2 - Animate Library
+2 - Greater Mossdog
+2 - Homarid Spawning Bed
+2 - Blades of Velis Vel
+2 - Crafty Octopus
+2 - Hand of Cruelty
+2 - Body of Jukai
+2 - Bonehoard
+2 - Butcher of Malakir
+2 - Fork
+2 - Purging Scythe
+2 - Grenzo's Rebuttal
+2 - Arch of Orazca
+2 - Dragonlord Ojutai
+2 - Dawn Gryff
+2 - Oath of Chandra
+2 - Inferno Fist
+2 - Scrapbasket
+2 - Leechridden Swamp
+2 - Arctic Nishoba
+2 - Devilthorn Fox
+2 - Aurochs
+2 - Thorned Moloch
+2 - Hunted Wumpus
+2 - Defang
+2 - Flamekin Bladewhirl
+2 - Chant of Vitu-Ghazi
+2 - Energy Arc
+2 - Heavy Mattock
+2 - Molting Snakeskin
+2 - Gaea's Anthem
+2 - Bog Gnarr
+2 - Deadly Designs
+2 - Army of Allah
+2 - Bulwark
+2 - Magus of the Moat
+2 - Boomerang
+2 - Cenn's Heir
+2 - Disciple of the Old Ways
+2 - Authority of the Consuls
+2 - Bloodforged Battle-Axe
+2 - Expedition Map
+2 - Electrify
+2 - Brass Man
+2 - Kyren Toy
+2 - Champion of the Parish
+2 - Tasigur, the Golden Fang
+2 - Pandemonium
+2 - Cocoon
+2 - Geth's Grimoire
+2 - Lost Hours
+2 - Culling the Weak
+2 - Confront the Unknown
+2 - Conjured Currency
+2 - Bloodborn Scoundrels
+2 - Infectious Bloodlust
+2 - Sage of Epityr
+2 - Demon of Wailing Agonies
+2 - Lurking Chupacabra
+2 - Charisma
+2 - Goblin Boom Keg
+2 - Lupine Prototype
+2 - Predator's Howl
+2 - Ancient Craving
+2 - Horobi's Whisper
+2 - Balthor the Defiled
+2 - Crystal Rod
+2 - Aven Mindcensor
+2 - Fledgling Osprey
+2 - Demystify
+2 - Assault Suit
+2 - Grasping Scoundrel
+2 - Hissing Iguanar
+2 - Grip of the Roil
+2 - Charging Binox
+2 - Lightning Reflexes
+2 - Reckless Abandon
+2 - Shape of the Wiitigo
+2 - Act of Heroism
+2 - Elvish Bard
+2 - Dauthi Jackal
+2 - Liar's Pendulum
+2 - Grave Upheaval
+2 - Magus of the Disk
+2 - Imps' Taunt
+2 - Invoke the Divine
+2 - Mad Dog
+2 - Numbing Jellyfish
+2 - Al-abara's Carpet
+2 - Inventor's Goggles
+2 - Reality Ripple
+2 - Cephalid Coliseum
+2 - Bumbling Pangolin
+2 - Hammer of Purphoros
+2 - Braidwood Cup
+2 - Revenge of the Hunted
+2 - Deus of Calamity
+2 - Bird Maiden
+2 - Manic Scribe
+2 - Hijack
+2 - Boiling Seas
+2 - Amateur Auteur
+2 - Baru, Fist of Krosa
+2 - Dauntless Dourbark
+2 - Gangrenous Zombies
+2 - Controvert
+2 - Metamorphosis
+2 - Heroes' Podium
+2 - Growth Spasm
+2 - Altar of Dementia
+2 - Assault Zeppelid
+2 - Battlefront Krushok
+2 - Brainbite
+2 - Insufferable Syphon
+2 - By Gnome Means
+2 - Rabble-Rouser
+2 - Prismatic Circle
+2 - Conjurer's Ban
+2 - Cosmic Larva
+2 - Broken Dam
+2 - Dream Twist
+2 - Rewind
+2 - Briarpack Alpha
+2 - Brilliant Halo
+2 - Caldera Lake
+2 - Blackmail
+2 - Geralf's Masterpiece
+2 - Gemstone Caverns
+2 - Drover of the Mighty
+2 - Dark Deal
+2 - Noble Steeds
+2 - Ebony Owl Netsuke
+2 - Compulsory Rest
+2 - Fyndhorn Bow
+2 - Carrion Crow
+2 - Broodstar
+2 - Fork in the Road
+2 - Bayou Dragonfly
+2 - Grizzled Leotau
+2 - Carrion Thrash
+2 - Hypochondria
+2 - Deadly Allure
+2 - Exile
+2 - Due Respect
+2 - Aven Warhawk
+2 - Azorius Ploy
+2 - Pierce the Sky
+2 - Devoted Crop-Mate
+2 - Breakthrough
+2 - Demonic Appetite
+2 - Blessing of Belzenlok
+2 - False Cure
+2 - Cascading Cataracts
+2 - Bontu the Glorified
+2 - Kei Takahashi
+2 - Greenwarden of Murasa
+2 - Avalanche
+2 - Bitter Feud
+2 - Burn at the Stake
+2 - Graceful Reprieve
+2 - Indebted Samurai
+2 - Circle of Protection: Red
+2 - Seal of Removal
+2 - Darigaaz Reincarnated
+2 - Rune Snag
+2 - Disciple of Deceit
+2 - Candles of Leng
+2 - Blood of the Martyr
+2 - Boundless Realms
+2 - Hellfire Mongrel
+2 - Balduvian Trading Post
+2 - Mindswipe
+2 - Brain Maggot
+2 - Aladdin's Lamp
+2 - Cower in Fear
+2 - Anoint
+2 - Careful Study
+2 - Molten Slagheap
+2 - Maze of Ith
+2 - Altar's Reap
+2 - Spy Kit
+2 - Call to the Kindred
+2 - Hobgoblin Dragoon
+2 - Commander Eesha
+2 - Over My Dead Bodies
+2 - Ajani's Welcome
+2 - Scarred Puma
+2 - Myr Turbine
+2 - Merrow Commerce
+2 - Minions' Murmurs
+2 - Evolution Vat
+2 - Overwhelm
+2 - Cartographer
+2 - Gatherer of Graces
+2 - Maraxus of Keld
+2 - Cyclone Sire
+2 - Acolyte of Xathrid
+2 - Agent of Stromgald
+2 - Heroes Remembered
+2 - Druid of the Anima
+2 - Essence Leak
+2 - Deploy to the Front
+2 - Mask of Avacyn
+2 - Clock of Omens
+2 - Aven Surveyor
+2 - Dream Chisel
+2 - Rootbound Crag
+2 - Augur of Skulls
+2 - Flame Javelin
+2 - Carven Caryatid
+2 - Font of Ire
+2 - Dragon Arch
+2 - Mizzium Skin
+2 - Frontline Rebel
+2 - Kitesail
+2 - Aphetto Dredging
+2 - Chaotic Goo
+1 - Consign // Oblivion
+1 - Artificer's Epiphany
+1 - Astrolabe
+1 - Elusive Spellfist
+1 - Nature's Revolt
+1 - Circle of Protection: White
+1 - Bonethorn Valesk
+1 - Razing Snidd
+1 - Ajani, Wise Counselor
+1 - Rain of Rust
+1 - Oath of Lieges
+1 - Faith Unbroken
+1 - Revive
+1 - Charging Bandits
+1 - Aura Gnarlid
+1 - Gang Up
+1 - Battle Hurda
+1 - Mulch
+1 - Revolutionary Rebuff
+1 - Baloth Pup
+1 - Nim Grotesque
+1 - Orochi Hatchery
+1 - Ashes of the Abhorrent
+1 - Hit // Run
+1 - Asceticism
+1 - Pithing Needle
+1 - Anarchist
+1 - Artful Dodge
+1 - Hammer Helper
+1 - Overbeing of Myth
+1 - Curse of Inertia
+1 - Lay Bare
+1 - Migratory Route
+1 - Praetor's Counsel
+1 - Bravado
+1 - Crimson Kobolds
+1 - Earthlore
+1 - Wild Aesthir
+1 - Batterskull
+1 - Nullify
+1 - Bident of Thassa
+1 - Pouncing Jaguar
+1 - Jester's Cap
+1 - Execute
+1 - Dryad Arbor
+1 - Fumarole
+1 - Crypt of Agadeem
+1 - Catch // Release
+1 - Stolen Strategy
+1 - Crashing Boars
+1 - Kithkin Daggerdare
+1 - Legerdemain
+1 - Eerie Interlude
+1 - Immortal Coil
+1 - Contagion Clasp
+1 - Churning Eddy
+1 - Flaccify
+1 - Equipoise
+1 - Ridge Rannet
+1 - Into Thin Air
+1 - Azorius Justiciar
+1 - Back from the Brink
+1 - Abyssal Nocturnus
+1 - Serum Tank
+1 - Battle of Wits
+1 - Hungry Spriggan
+1 - Festering Newt
+1 - Gods' Eye, Gate to the Reikai
+1 - Isolation Cell
+1 - Escape Routes
+1 - Eyeblight Massacre
+1 - Smelt
+1 - Lightning Talons
+1 - Bind
+1 - Fencing Ace
+1 - Broodhatch Nantuko
+1 - Clambassadors
+1 - Odious Trow
+1 - Auger Spree
+1 - Cowardice
+1 - Dual Doomsuits
+1 - Bojuka Bog
+1 - Bow of Nylea
+1 - Grovetender Druids
+1 - Haunted Fengraf
+1 - Sundering Vitae
+1 - Notorious Throng
+1 - Sorin, Lord of Innistrad
+1 - Kird Ape
+1 - Razor Hippogriff
+1 - Safewright Quest
+1 - Haunting Misery
+1 - Chaos Harlequin
+1 - Nephalia Academy
+1 - Apocalypse
+1 - Aethersnipe
+1 - Drowned
+1 - Ambush Krotiq
+1 - Anafenza, the Foremost
+1 - Hissing Quagmire
+1 - Flow of Ideas
+1 - Arena Athlete
+1 - Death Spark
+1 - Grand Architect
+1 - Browse
+1 - Final Revels
+1 - Bottle of Suleiman
+1 - Astral Cornucopia
+1 - Aerie Ouphes
+1 - Dance of the Skywise
+1 - Echoing Calm
+1 - Saprazzan Bailiff
+1 - Genju of the Cedars
+1 - Karoo
+1 - Barbary Apes
+1 - Brass Secretary
+1 - Singe
+1 - Convalescent Care
+1 - Engulf the Shore
+1 - Blessed Spirits
+1 - Lorescale Coatl
+1 - Dead // Gone
+1 - Peppersmoke
+1 - Choking Fumes
+1 - Fecundity
+1 - Nest of Scarabs
+1 - Fledgling Mawcor
+1 - Dragonlord Silumgar
+1 - Savage Stomp
+1 - Huatli, Warrior Poet
+1 - Ebon Praetor
+1 - Painful Quandary
+1 - Freed from the Real
+1 - Orcish Mechanics
+1 - Overload
+1 - Aid from the Cowl
+1 - Amok
+1 - Nantuko Vigilante
+1 - Legions of Lim-Dûl
+1 - Aura Barbs
+1 - Cytoshape
+1 - Forked-Branch Garami
+1 - Rugged Prairie
+1 - Fend Off
+1 - Krosan Verge
+1 - Emissary of Sunrise
+1 - Funeral Pyre
+1 - Mischief and Mayhem
+1 - Mark of Asylum
+1 - Dragon Fangs
+1 - Paperfin Rascal
+1 - Anaconda
+1 - Dance of Many
+1 - Jasmine Boreal
+1 - Cut // Ribbons
+1 - Prickleboar
+1 - Fragmentize
+1 - Blinding Beam
+1 - Cold-Eyed Selkie
+1 - Exorcist
+1 - Defiant Greatmaw
+1 - Caltrops
+1 - Airdrop Aeronauts
+1 - Dwarven Pony
+1 - Norwood Priestess
+1 - Breaching Hippocamp
+1 - Carrier Pigeons
+1 - Aysen Bureaucrats
+1 - Dawntreader Elk
+1 - Counterbore
+1 - Hunter's Prowess
+1 - Corpse Cur
+1 - Dizzying Gaze
+1 - Ardent Militia
+1 - Built to Smash
+1 - Deity of Scars
+1 - Grim Poppet
+1 - Foul-Tongue Shriek
+1 - Cyclops of One-Eyed Pass
+1 - Prey Upon
+1 - Juntu Stakes
+1 - Lhurgoyf
+1 - Bane of Bala Ged
+1 - Corpse Blockade
+1 - Dead Man's Chest
+1 - Chambered Nautilus
+1 - Pathbreaker Ibex
+1 - Double Take
+1 - Journeyer's Kite
+1 - Cathodion
+1 - Polluted Delta
+1 - Cabal Therapy
+1 - Lava Dart
+1 - Benalish Heralds
+1 - Archers' Parapet
+1 - Sachi, Daughter of Seshiro
+1 - Ring of Valkas
+1 - Cathedral of Serra
+1 - Ikra Shidiqi, the Usurper
+1 - Dread Slag
+1 - Awakened Amalgam
+1 - Glare of Subdual
+1 - Saprazzan Cove
+1 - Hunted Lammasu
+1 - Deprive
+1 - Heartstabber Mosquito
+1 - Regal Caracal
+1 - Gray Merchant of Asphodel
+1 - Hubris
+1 - Mire's Toll
+1 - Ignorant Bliss
+1 - Constricting Tendrils
+1 - Contempt
+1 - Circle of Protection: Blue
+1 - Caustic Tar
+1 - Dwarven Sea Clan
+1 - Nightshade Schemers
+1 - Lace with Moonglove
+1 - Dash Hopes
+1 - Gulf Squid
+1 - Fate Transfer
+1 - Knight-Captain of Eos
+1 - Mask of Riddles
+1 - Firespout
+1 - Buzzing Whack-a-Doodle
+1 - Budoka Pupil // Ichiga, Who Topples Oaks
+1 - Phyrexian Battleflies
+1 - Faerie Artisans
+1 - Kudzu
+1 - Angelsong
+1 - Coiling Woodworm
+1 - Avatar of Woe
+1 - Architect of the Untamed
+1 - Fylamarid
+1 - Rampaging Baloths
+1 - Crown of Awe
+1 - Slippery Karst
+1 - Magus of the Bazaar
+1 - Stamina
+1 - Heavenly Qilin
+1 - Crystal Ball
+1 - Ashenmoor Gouger
+1 - Rakdos Cackler
+1 - Ricochet
+1 - Lignify
+1 - Elemental Augury
+1 - Gorgon's Head
+1 - Goblin Masons
+1 - Auramancer's Guise
+1 - Arcbound Hybrid
+1 - Hornet Nest
+1 - Fog of Gnats
+1 - Ajani's Mantra
+1 - Curse of Marit Lage
+1 - Gutter Grime
+1 - Valeron Wardens
+1 - Bloodflow Connoisseur
+1 - Flow of Maggots
+1 - Portcullis
+1 - Jolt
+1 - Mental Misstep
+1 - Skyward Eye Prophets
+1 - Rumbling Crescendo
+1 - Knight of the Kitchen Sink
+1 - Erithizon
+1 - Skull Rend
+1 - Baleful Ammit
+1 - Hornet Harasser
+1 - Electrolyze
+1 - Needleshot Gourna
+1 - Nefarox, Overlord of Grixis
+1 - Chain of Vapor
+1 - Implements of Sacrifice
+1 - Orbweaver Kumo
+1 - Arms Depot
+1 - Groundswell
+1 - Benefaction of Rhonas
+1 - Cemetery Puca
+1 - Into the North
+1 - Kalitas, Bloodchief of Ghet
+1 - Intangible Virtue
+1 - Keeper of Kookus
+1 - Krav, the Unredeemed
+1 - Roc of Kher Ridges
+1 - Akroma's Devoted
+1 - Goblin Lackey
+1 - Lotus Petal
+1 - Armed // Dangerous
+1 - Debilitating Injury
+1 - Stratus Walk
+1 - Rowan Kenrith
+1 - Festercreep
+1 - Bloodghast
+1 - Champion of Arashin
+1 - Colossal Dreadmaw
+1 - Seller of Songbirds
+1 - Burnished Hart
+1 - Bronzebeak Moa
+1 - Capashen Standard
+1 - Dosan the Falling Leaf
+1 - Oppressive Rays
+1 - Razaketh, the Foulblooded
+1 - Pestilent Kathari
+1 - Collective Voyage
+1 - Numbing Dose
+1 - Archangel of Tithes
+1 - Tangleroot
+1 - Shimmering Grotto
+1 - Soothing Balm
+1 - Arcum's Weathervane
+1 - Bladewing's Thrall
+1 - Kranioceros
+1 - Companion of the Trials
+1 - Confiscation Coup
+1 - It That Betrays
+1 - Angel of Glory's Rise
+1 - Phelddagrif
+1 - Dazzling Beauty
+1 - Cleansing Nova
+1 - Living Tsunami
+1 - Dawnfluke
+1 - Blight Sickle
+1 - General Jarkeld
+1 - Angelic Page
+1 - Goblin Dirigible
+1 - Glacial Chasm
+1 - Shrivel
+1 - Heckling Fiends
+1 - Spike Cannibal
+1 - Archivist
+1 - Invigorated Rampage
+1 - Court Hussar
+1 - Disciple of Tevesh Szat
+1 - Brown Ouphe
+1 - Chartooth Cougar
+1 - Mountain Goat
+1 - Simian Grunts
+1 - Burning Inquiry
+1 - Gisa and Geralf
+1 - Piety
+1 - Spirespine
+1 - Pounce
+1 - Bolt of Keranos
+1 - Olivia's Bloodsworn
+1 - Hour of Need
+1 - Aboroth
+1 - Children of Korlis
+1 - Flayer Husk
+1 - Altar of the Brood
+1 - Rashida Scalebane
+1 - Mortal Combat
+1 - Clockwork Vorrac
+1 - Boris Devilboon
+1 - Krenko, Mob Boss
+1 - Corrupt
+1 - Kitchen Finks
+1 - Curse of the Cabal
+1 - Buzz Buggy
+1 - Barktooth Warbeard
+1 - Archdemon of Unx
+1 - Ajani Goldmane
+1 - Library of Lat-Nam
+1 - Open the Vaults
+1 - Glory of Warfare
+1 - Masterful Ninja
+1 - Aquamoeba
+1 - Gatecreeper Vine
+1 - Crumbling Vestige
+1 - Oxidize
+1 - Aethertow
+1 - Patron of the Kitsune
+1 - Tower Above
+1 - Corpulent Corpse
+1 - Giant Warthog
+1 - Dark Prophecy
+1 - Equestrian Skill
+1 - Akki Lavarunner // Tok-Tok, Volcano Born
+1 - Dragonlord Dromoka
+1 - Tangle Kelp
+1 - Karametra, God of Harvests
+1 - Ghost Council of Orzhova
+1 - Consuming Fervor
+1 - Ghostly Visit
+1 - Gnarled Scarhide
+1 - Fylgja
+1 - Flickerwisp
+1 - Kezzerdrix
+1 - Kitesail Corsair
+1 - Deathmask Nezumi
+1 - Draining Whelk
+1 - About Face
+1 - Coils of the Medusa
+1 - Brawn
+1 - Bridge from Below
+1 - Spectral Reserves
+1 - Land Tax
+1 - Fires of Yavimaya
+1 - Rain of Salt
+1 - Marrow-Gnawer 
+1 - Temporary Truce
+1 - Mad Auntie
+1 - Second Guess
+1 - Stensia Banquet
+1 - Brisela, Voice of Nightmares
+1 - Hanna's Custody
+1 - Grim Roustabout
+1 - Abolish
+1 - Collective Unconscious
+1 - Herald of Leshrac
+1 - Boseiju, Who Shelters All
+1 - Rally the Righteous
+1 - Evil Eye of Orms-by-Gore
+1 - Bloodlord of Vaasgoth
+1 - Identity Crisis
+1 - Manamorphose
+1 - Clout of the Dominus
+1 - Dramatic Rescue
+1 - As Foretold
+1 - Kamahl's Druidic Vow
+1 - Cruel Sadist
+1 - Eldrazi Skyspawner
+1 - Phyrexian Tyranny
+1 - Break Open
+1 - Burden of Guilt
+1 - Kagemaro's Clutch
+1 - Horizon Seed
+1 - Eidolon of Blossoms
+1 - Circle of Protection: Black
+1 - Corrupt Court Official
+1 - Burnout
+1 - Alpha Tyrranax
+1 - Fyndhorn Brownie
+1 - Lay Waste
+1 - Advice from the Fae
+1 - Brassclaw Orcs
+1 - Apathy
+1 - Ground Seal
+1 - Loch Korrigan
+1 - Killer Bees
+1 - Firebolt
+1 - Edgar Markov
+1 - Scythe of the Wretched
+1 - Karlov of the Ghost Council
+1 - Tetsuo Umezawa
+1 - Baton of Morale
+1 - Lost in a Labyrinth
+1 - Rebellion of the Flamekin
+1 - Shower of Sparks
+1 - Krond the Dawn-Clad
+1 - Colossus of Akros
+1 - Breath of Malfegor
+1 - Conflux
+1 - Sarkhan, Dragonsoul
+1 - Impact Tremors
+1 - Chained to the Rocks
+1 - Auriok Siege Sled
+1 - Meren of Clan Nel Toth
+1 - Soul Burn
+1 - Indentured Oaf
+1 - Hidden Guerrillas
+1 - Empty the Pits
+1 - Armored Galleon
+1 - Culling Mark
+1 - Armament Corps
+0 - Helldozer
+0 - Masumaro, First to Live
+0 - Polymorphist's Jest
+0 - Azami, Lady of Scrolls
+0 - Rampaging Ferocidon
+0 - Gallows at Willow Hill
+0 - Doomsday
+0 - Guardian of Cloverdell
+0 - Oddly Uneven
+0 - Haunted Plate Mail
+0 - Bombard
+0 - Ad Nauseam
+0 - Rout
+0 - Reminisce
+0 - Luxury Suite
+0 - Lamplighter of Selhoff
+0 - Blistergrub
+0 - Crush of Wurms
+0 - Loathsome Catoblepas
+0 - Riven Turnbull
+0 - Tibor and Lumia
+0 - Qumulox
+0 - Dust Corona
+0 - Wave of Vitriol
+0 - Bee-Bee Gun
+0 - Unexpected Potential
+0 - Pir's Whim
+0 - Ice Over
+0 - Font of Mythos
+0 - Complete Disregard
+0 - Violet Pall
+0 - Cataclysm
+0 - School of Piranha
+0 - Squirrel-Powered Scheme
+0 - Wanderer's Twig
+0 - Instill Furor
+0 - Glint
+0 - Mindcrank
+0 - Withdraw
+0 - Steady-Handed Mook
+0 - Sphinx of Uthuun
+0 - Jilt
+0 - Saddleback Lagac
+0 - Nix
+0 - Life and Limb
+0 - Metathran Aerostat
+0 - Teferi, Mage of Zhalfir
+0 - Implode
+0 - Psychic Symbiont
+0 - Rancor
+0 - Bloodbriar
+0 - Wizard's Retort
+0 - Swooping Talon
+0 - Teetering Peaks
+0 - Shared Trauma
+0 - Sword-Point Diplomacy
+0 - Tread Mill
+0 - Mistform Seaswift
+0 - Forbidden Alchemy
+0 - Serene Sunset
+0 - Gild
+0 - Living Plane
+0 - Presence of Gond
+0 - Condemn
+0 - Flame Jab
+0 - Borborygmos Enraged
+0 - Lavinia of the Tenth
+0 - Gaddock Teeg
+0 - Subterranean Hangar
+0 - Norin the Wary
+0 - Goblin Chainwhirler
+0 - Sawtooth Loon
+0 - Lichenthrope
+0 - Soar
+0 - Hunding Gjornersen
+0 - Togglodyte
+0 - Merseine
+0 - Penumbra Bobcat
+0 - Robber Fly
+0 - Wild Pair
+0 - Thoughtseize
+0 - Pay No Heed
+0 - Rumbling Slum
+0 - Urza's Hot Tub
+0 - Cave People
+0 - Last Gasp
+0 - Merieke Ri Berit
+0 - Konda's Hatamoto
+0 - Hide // Seek
+0 - Seedtime
+0 - Opal-Eye, Konda's Yojimbo
+0 - Stand Firm
+0 - Weaver of Lies
+0 - Graf Mole
+0 - An-Havva Inn
+0 - Utopia Mycon
+0 - Vile Requiem
+0 - Heavy Arbalest
+0 - Cromat
+0 - Purge the Profane
+0 - Vesuva
+0 - Paroxysm
+0 - Stampeding Serow
+0 - Hangman
+0 - Crackling Club
+0 - Larceny 
+0 - Pradesh Gypsies
+0 - Roar of the Kha
+0 - Sink into Takenuma
+0 - Jubilant Mascot
+0 - Oath of Gideon
+0 - Graveyard Busybody
+0 - Lair Delve
+0 - Psychic Puppetry
+0 - Obelisk of Bant
+0 - Barrin's Codex
+0 - Manaforce Mace
+0 - Hot Fix
+0 - Djinn of Infinite Deceits
+0 - Choke
+0 - Bounty of the Luxa
+0 - Kindle the Carnage
+0 - Thunderclap
+0 - Forfend
+0 - Clear
+0 - Impale
+0 - Tragic Slip
+0 - Look at Me, I'm the DCI
+0 - Opt
+0 - Burning of Xinye
+0 - Perplex
+0 - Streambed Aquitects
+0 - River Kaijin
+0 - Trusty Machete
+0 - Mantle of Webs
+0 - Mark of Sakiko
+0 - Viashino Bey
+0 - Leonin Bola
+0 - Screeching Silcaw
+0 - Lure
+0 - Foresee
+0 - Typhoon
+0 - Curfew
+0 - Omnath, Locus of Mana
+0 - Hunger of the Howlpack
+0 - Eidolon of Rhetoric
+0 - River Hoopoe
+0 - Gainsay
+0 - Meddling Kids
+0 - Forsake the Worldly
+0 - Folk Medicine
+0 - Bramblesnap
+0 - Jinx
+0 - Angus Mackenzie
+0 - Wind Shear
+0 - Recross the Paths
+0 - Soul Shred
+0 - Shape Anew
+0 - Topsy Turvy
+0 - Orzhov Advokist
+0 - Priest of Urabrask
+0 - Blackblade Reforged
+0 - Lonely Sandbar
+0 - Uncovered Clues
+0 - Ardent Plea
+0 - Hankyu
+0 - Gurzigost
+0 - Melancholy
+0 - Intervene
+0 - "Ach! Hans, Run!"
+0 - Deathgrip
+0 - Wandering Ones
+0 - Auriok Transfixer
+0 - Fall of the Titans
+0 - Bosom Buddy
+0 - Wine of Blood and Iron
+0 - Shadow of Doubt
+0 - Whiteout
+0 - Dwarven Vigilantes
+0 - Dunerider Outlaw
+0 - Quicksand
+0 - Karma
+0 - Condescend
+0 - Shower of Coals
+0 - Azorius First-Wing
+0 - Dromad Purebred
+0 - Scourge of Numai
+0 - Conquer
+0 - Atinlay Igpay
+0 - Skullcage
+0 - Strafe
+0 - Feldon's Cane
+0 - Emberwilde Caliph
+0 - Relentless Skaabs
+0 - Grafted Skullcap
+0 - Mind Grind
+0 - Peace Talks
+0 - Mise
+0 - Festival of Trokin
+0 - Knight of the Tusk
+0 - Memory Crystal
+0 - Boggart Shenanigans
+0 - Dodecapod
+0 - Impetuous Protege
+0 - Wind Sail
+0 - Shell of the Last Kappa
+0 - Leering Emblem
+0 - Sewers of Estark
+0 - Burn the Impure
+0 - Jedit Ojanen of Efrava
+0 - Heart of Kiran
+0 - Clockwork Avian
+0 - Brain Pry
+0 - Bribery
+0 - Queen Marchesa
+0 - Sonic Seizure
+0 - Pox
+0 - Knight of Sursi
+0 - Legacy Weapon
+0 - Murderous Redcap
+0 - Ass Whuppin'
+0 - Reap What Is Sown
+0 - Primal Clay
+0 - Karoo Meerkat
+0 - Master of Pearls
+0 - Lava Tubes
+0 - Ayesha Tanaka
+0 - Pavel Maliki
+0 - Blurry Beeble
+0 - Sprout
+0 - Greatbow Doyen
+0 - Threaten
+0 - Grand Arbiter Augustin IV
+0 - Ruthless Disposal
+0 - Pulling Teeth
+0 - Jump
+0 - Echo Circlet
+0 - Emerge Unscathed
+0 - Hunting Triad
+0 - Skyline Despot
+0 - Uktabi Wildcats
+0 - Encrust
+0 - Ghostway
+0 - Volcanic Fallout
+0 - Caustic Wasps
+0 - Victimize
+0 - Momentum
+0 - Root-Kin Ally
+0 - Uktabi Kong
+0 - Palinchron
+0 - Creature Guy
+0 - Refresh
+0 - Murderous Cut
+0 - Coral Atoll
+0 - Rishadan Port
+0 - Chronozoa
+0 - Carom
+0 - Borborygmos
+0 - Village Cannibals
+0 - Wild Colos
+0 - Lapse of Certainty
+0 - Gaea's Cradle
+0 - Odds // Ends
+0 - El-Hajjâj
+0 - Territorial Dispute
+0 - Turn Against
+0 - Mox Sapphire
+0 - Ob Nixilis Reignited
+0 - Fracturing Gust
+0 - Immobilizer Eldrazi
+0 - Clam-I-Am
+0 - Swat
+0 - Esperzoa
+0 - Welkin Tern
+0 - Circular Logic
+0 - Silver Erne
+0 - Sarkhan Vol
+0 - Firefly
+0 - Kill! Destroy!
+0 - Honor-Worn Shaku
+0 - Erase (Not the Urza's Legacy One)
+0 - Dark Privilege
+0 - Besmirch
+0 - _____
+0 - Crevasse
+0 - Spirit Loop
+0 - Umezawa's Jitte
+0 - Assembled Alphas
+0 - Switcheroo
+0 - Adaptive Snapjaw
+0 - Spell Snip
+0 - Veteran's Sidearm
+0 - Vaporkin
+0 - Retreat to Hagra
+0 - Undo
+0 - Greater Good
+0 - Spell Suck
+0 - Death's Duet
+0 - Sea Legs
+0 - Golgothian Sylex
+0 - Pongify
+0 - Brimaz, King of Oreskos
+0 - Liliana Vess
+0 - Eater of Days
+0 - Graven Cairns
+0 - Dispossess
+0 - Heliophial
+0 - Knight of the White Orchid
+0 - Barishi
+0 - Meletis Charlatan
+0 - Black Oak of Odunos
+0 - Knight of Infamy
+0 - Spawn of Thraxes
+0 - Sift
+0 - Reprocess
+0 - Die Young
+0 - Landfill
+0 - Side to Side
+0 - Tamanoa
+0 - Guardian of Tazeem
+0 - Flay
+0 - Oath of Teferi
+0 - Altered Ego
+0 - Think Twice
+0 - Gustcloak Savior
+0 - Ronin Warclub
+0 - Spellbook
+0 - Slippery Bogle
+0 - Induce Paranoia
+0 - Ramirez DePietro
+0 - Surge Node
+0 - Uktabi Orangutan
+0 - Halfdane
+0 - Clever Combo
+0 - Archdemon of Paliano
+0 - Moroii
+0 - Rapid Prototyper
+0 - Common Courtesy
+0 - Presence of the Wise
+0 - Torsten Von Ursus
+0 - Daily Regimen
+0 - Two-Headed Giant of Foriys
+0 - Excise
+0 - Standing Army
+0 - Honed Khopesh
+0 - Arctic Foxes
+0 - Proper Laboratory Attire
+0 - Mind Sculpt
+0 - Aether Shockwave
+0 - Frozen Solid
+0 - Dragon Throne of Tarkir
+0 - Xiahou Dun, the One-Eyed
+0 - Abbey Gargoyles
+0 - Boil
+0 - Zap
+0 - Barren Moor
+0 - Nevermore
+0 - Red-Hot Hottie
+0 - Lull
+0 - Chaos Confetti
+0 - Petrahydrox
+0 - GO TO JAIL
+0 - Elsewhere Flask
+0 - Spinerock Knoll
+0 - Slice and Dice
+0 - Wicked Akuba
+0 - Miss Demeanor
+0 - Down // Dirty
+0 - Wretched Anurid
+0 - Nine-Ringed Bo
+0 - Descend upon the Sinful
+0 - Drudge Skeletons
+0 - Mayael's Aria
+0 - Super Secret Tech
+0 - Alpine Grizzly
+0 - Rakdos, Lord of Riots
+0 - Beast in Show
+0 - Afflict
+0 - Tanglesap
+0 - Serpentine
+0 - Knight of the Widget
+0 - Risky Move
+0 - Stingmoggie
+0 - Banners Raised
+0 - Foil
+0 - Human Frailty
+0 - Mob Rule
+0 - Walking Sponge
+0 - Whirler Virtuoso
+0 - Vivien of the Arkbow
+0 - Live Fast
+0 - Axelrod Gunnarson
+0 - Commandeer
+0 - Cave-In
+0 - Colossal Heroics
+0 - Karakas
+0 - Giant Fan
+0 - Vaevictis Asmadi
+0 - Wight of Precinct Six
+0 - Order of Whiteclay
+0 - Vermiculos
+0 - Ice Floe
+0 - Deepwood Tantiv
+0 - Pale Rider of Trostad
+0 - Canyon Wildcat
+0 - Oathkeeper, Takeno's Daisho
+0 - Niall Silvain
+0 - Ring of Ma'rûf
+0 - Skeletal Grimace
+0 - Imaginary Threats
+0 - Ow
+0 - Triumph of Gerrard
+0 - Taniwha
+0 - Winding Canyons
+0 - Faerie Macabre
+0 - Goblin Medics
+0 - Noggin Whack
+0 - Mwonvuli Acid-Moss
+0 - Gideon Jura
+0 - Char
+0 - Toxic Stench
+0 - Touch and Go
+0 - Sigarda, Host of Herons
+0 - Thoughtweft Trio
+0 - Bile Urchin
+0 - Gosta Dirk
+0 - Ramses Overdark
+0 - Tel-Jilad Stylus
+0 - Pallimud
+0 - Sidar Jabari
+0 - Neurok Stealthsuit
+0 - Ichorid
+0 - Konda, Lord of Eiganjo
+0 - Double Dip
+0 - Infuse
+0 - Sun Droplet
+0 - Render Silent
+0 - Browbeat
+0 - Rishadan Footpad
+0 - Khalni Gem
+0 - Hazduhr the Abbot
+0 - AWOL
+0 - Molten Frame
+0 - Show and Tell
+0 - Ring of Kalonia
+0 - Scaldkin
+0 - Angelic Voices
+0 - Shamble Back
+0 - Rhox
+0 - Drift of Phantasms
+0 - The Great Aurora
+0 - Multi-Headed
+0 - Council of Advisors
+0 - Skullclamp
+0 - Three Visits
+0 - Spine of Ish Sah
+0 - Chain of Smog
+0 - Mortal's Ardor
+0 - Peek
+0 - Kaalia of the Vast
+0 - Downpour
+0 - Gruul Nodorog
+0 - Flameborn Viron
+0 - Bloodletter Quill
+0 - Grand Warlord Radha
+0 - B-I-N-G-O
+0 - First Come, First Served
+0 - Goblin Diplomats
+0 - Servant of Nefarox
+0 - Monkey-
+0 - Disciple of Phenax
+0 - Harvestguard Alseids
+0 - Crash of Rhinos
+0 - Monstrous Carabid
+0 - Disembowel
+0 - Kismet
+0 - Lead Astray
+0 - Villainous Wealth
+0 - Mystic Retrieval
+0 - Manakin
+0 - Magical Hack
+0 - Mox Ruby
+0 - Wallop
+0 - Into the Maw of Hell
+0 - Steamflogger of the Month
+0 - Plow Through Reito
+0 - Breaker of Armies
+0 - Claim // Fame
+0 - Embolden
+0 - Dream Coat
+0 - Do or Die
+0 - Werebear
+0 - Now I Know My ABC's
+0 - Emrakul, the Aeons Torn
+0 - Tor Wauki
+0 - Reef Worm
+0 - Demonmail Hauberk
+0 - Control Magic
+0 - Yare
+0 - Stun
+0 - Aluren
+0 - Brion Stoutarm
+0 - Lightning Diadem
+0 - Seafarer's Quay
+0 - Appetite for the Unnatural
+0 - Sindbad
+0 - Hythonia the Cruel
+0 - Culling Dais
+0 - Vaevictis Asmadi, the Dire
+0 - Zanikev Locust
+0 - Totem-Guide Hartebeest
+0 - Rivals' Duel
+0 - Free-for-All
+0 - Brigid, Hero of Kinsbaile
+0 - Crusader of Odric
+0 - Scalpelexis
+0 - Hammerfest Boomtacular
+0 - Guma
+0 - Sir Shandlar of Eberyn
+0 - Brindle Shoat
+0 - Dusk Urchins
+0 - Ornery Kudu
+0 - Goblins of the Flarg
+0 - Johan
+0 - Bandage
+0 - Lady Evangela
+0 - Scorching Missile
+0 - Shinewend
+0 - Standstill
+0 - Cat Burglar
+0 - Pang Tong, "Young Phoenix"
+0 - Lurking Jackals
+0 - Cheatyface
+0 - Growth Spurt
+0 - Krovikan Fetish
+0 - Disrupt Decorum
+0 - Wall of Corpses
+0 - Dreadbringer Lampads
+0 - Oracle of Mul Daya
+0 - Denied!
+0 - Maw of the Obzedat
+0 - Vex
+0 - Slay
+0 - Archfiend of Ifnir
+0 - Pulse of Llanowar
+0 - Goblin Test Pilot
+0 - One Dozen Eyes
+0 - Trolls of Tel-Jilad
+0 - Hickory Woodlot
+0 - Farseek
+0 - Slice in Twain
+0 - Sphinx of Magosi
+0 - Amrou Kithkin
+0 - Abjure
+0 - Archers of Qarsi
+0 - Zombie Fanboy
+0 - Disturbing Plot
+0 - Forbid
+0 - Folk of An-Havva
+0 - Nature's Panoply
+0 - Conjurer's Closet
+0 - Zhang Liao, Hero of Hefei
+0 - Soul Ransom
+0 - Telepathic Spies
+0 - Bash to Bits
+0 - Desert Nomads
+0 - Traverse the Ulvenwald
+0 - Vec Townships
+0 - Paladin of Prahv
+0 - Abomination of Gudul
+0 - Ambition's Cost
+0 - Mana Seism
+0 - Zombify
+0 - Jester's Sombrero
+0 - Dust Bowl
+0 - Metrognome
+0 - Mercadian Lift
+0 - Headless Horseman
+0 - Sengir Nosferatu
+0 - Deadly Grub
+0 - Griffin Canyon
+0 - Carnassid
+0 - Viridian Longbow
+0 - Flock of Rabid Sheep
+0 - Shadowfeed
+0 - Fatal Push
+0 - Stonefury
+0 - Wall of Heat
+0 - Tower of Eons
+0 - Tromokratis
+0 - Gus
+0 - Subdue
+0 - Kapsho Kitefins
+0 - Chant of the Skifsang
+0 - Jeweled Torque
+0 - Secluded Glen
+0 - Varolz, the Scar-Striped
+0 - Banishing Knack
+0 - Avizoa
+0 - Back to Basics
+0 - Rank and File
+0 - Daybreak Coronet
+0 - Saheeli Rai
+0 - Frog Tongue
+0 - Manriki-Gusari
+0 - Thoughtrender Lamia
+0 - Mirozel
+0 - Ulamog, the Infinite Gyre
+0 - Raze
+0 - Déjà Vu
+0 - Rayne, Academy Chancellor
+0 - Grollub
+0 - Sensei's Divining Top
+0 - Henchfiend of Ukor
+0 - Whitewater Naiads
+0 - Mana Flair
+0 - Knight of the Hokey Pokey
+0 - Boreal Shelf
+0 - Disarm
+0 - Dream Leash
+0 - Incandescent Soulstoke
+0 - Crib Swap
+0 - Stangg
+0 - Bartel Runeaxe
+0 - Experiment Kraj
+0 - Stifle
+0 - Brainwash
+0 - Atog
+0 - Ascendant Evincar
+0 - Nekrataal
+0 - Jaya Ballard
+0 - Ankh of Mishra
+0 - Planar Overlay
+0 - Food Chain
+0 - Eye Gouge
+0 - Lurking Arynx
+0 - Into the Fray
+0 - Leonin Bladetrap
+0 - Scalding Tarn
+0 - Spawn of Rix Maadi
+0 - Set Adrift
+0 - Chains of Mephistopheles
+0 - Bequeathal
+0 - Exhume
+0 - Eager Cadet
+0 - Hammer of Nazahn
+0 - Primoc Escapee
+0 - Rescind
+0 - Wild Nacatl
+0 - Murmuring Bosk
+0 - Redirect
+0 - Embargo
+0 - Smash to Smithereens
+0 - Keeper of Keys
+0 - Temple of Malady
+0 - Nimbus Naiad
+0 - Hoodwink
+0 - Omnibian
+0 - Blight Mamba
+0 - Voracious Vacuum
+0 - Molten Psyche
+0 - Licia, Sanguine Tribune
+0 - Rakka Mar
+0 - Eight-and-a-Half-Tails
+0 - Wirewood Symbiote
+0 - Entirely Normal Armchair
+0 - Refurbish
+0 - Capture of Jingzhou
+0 - Dimir Aqueduct
+0 - General's Kabuto
+0 - Unblinking Bleb
+0 - Monsoon
+0 - Recoup
+0 - Leopard-Spotted Jiao
+0 - Champion of Lambholt
+0 - Scapegoat
+0 - Retreat to Kazandu
+0 - Marsh Gas
+0 - Hungry Hungry Heifer
+0 - Gift of Tusks
+0 - Time Stop
+0 - Brushwagg
+0 - Shunt
+0 - Nameless Race
+0 - Stensia Bloodhall
+0 - Roar of the Crowd
+0 - Ghoulcaller Gisa
+0 - Gallowbraid
+0 - Martyrdom
+0 - Waste Not
+0 - Coalition Flag
+0 - Scalding Tongs
+0 - Glowering Rogon
+0 - Bazaar Krovod
+0 - Scar
+0 - Contraband Kingpin
+0 - Chameleon Blur
+0 - Guest List
+0 - Destined // Lead
+0 - Hollow Trees
+0 - Nath's Buffoon
+0 - Rust Tick
+0 - Crypt of the Eternals
+0 - Veldt
+0 - Civic Saber
+0 - Rockcaster Platoon
+0 - Minds Aglow
+0 - Skred
+0 - Princess Lucrezia
+0 - Amugaba
+0 - In Oketra's Name
+0 - Wild Jhovall
+0 - Bösium Strip
+0 - Bullwhip
+0 - Vanguard of Brimaz
+0 - Rolling Temblor
+0 - Hyalopterous Lemure
+0 - Sauté
+0 - Vona, Butcher of Magan
+0 - Shuriken
+0 - Soul Bleed
+0 - Didgeridoo
+0 - Heal
+0 - Saprazzan Skerry
+0 - Wall of Junk
+0 - Overrun
+0 - The Big Idea
+0 - Assemble the Rank and Vile
+0 - Baird, Steward of Argive
+0 - Old Fogey
+0 - Loose Lips
+0 - Incite
+0 - Kraum, Ludevic's Opus
+0 - Earthshaking Si
+0 - Child of Gaea
+0 - Vexing Arcanix
+0 - Annul
+0 - Outwit
+0 - Recoil
+0 - Auto-Key
+0 - Merrow Reejerey
+0 - Bog Hoodlums
+0 - Provoke
+0 - Jihad
+0 - Talonrend
+0 - Captain Sisay
+0 - Observant Alseid
+0 - Marjhan
+0 - Emerald Oryx
+0 - Grounded
+0 - Darksteel Ingot
+0 - Vivid Flying Fish
+0 - Wei Assassins
+0 - Mirror Sheen
+0 - Prohibit
+0 - Pikemen
+0 - Ashnod's Coupon
+0 - Mobile Fort
+0 - Ertai, the Corrupted
+0 - Yawgmoth's Agenda
+0 - Bedlam
+0 - Oath of Jace
+0 - Delay
+0 - Citadel Castellan
+0 - Split-Tail Miko
+0 - Vanquish the Foul
+0 - Argothian Pixies
+0 - Sharpened Pitchfork
+0 - Iceberg
+0 - Ancient Den
+0 - Riot Spikes
+0 - Springleaf Drum
+0 - Footsteps of the Goryo
+0 - Keldon Megaliths
+0 - Hovermyr
+0 - Brass Gnat
+0 - Ragnar
+0 - All Hallow's Eve
+0 - Shipwreck Moray
+0 - More or Less
+0 - Charge Across the Araba
+0 - Narcolepsy
+0 - Jaddi Offshoot
+0 - Scion of Oona
+0 - Rethink
+0 - Knighthood
+0 - Watchdog
+0 - Verdigris
+0 - Unmake
+0 - Sarpadian Empires, Vol. VII
+0 - Kumano's Pupils
+0 - Glimmervoid
+0 - Mindmoil
+0 - Golden Hind
+0 - Scrap
+0 - Woodcutter's Grit
+0 - Cream of the Crop
+0 - Death Baron
+0 - Thragtusk
+0 - Apex Hawks
+0 - Herald of Anafenza
+0 - Swans of Bryn Argoll
+0 - Whippoorwill
+0 - Quash
+0 - Candelabra of Tawnos
+0 - Thud
+0 - Vivify
+0 - Channel Harm
+0 - Walk the Plank
+0 - Veil of Secrecy
+0 - Call to Heel
+0 - Goblin Bookie
+0 - Hammerheim Deadeye
+0 - Dub
+0 - Pillar Tombs of Aku
+0 - Emmara Tandris
+0 - Cao Cao, Lord of Wei
+0 - Insist
+0 - Teysa, Envoy of Ghosts
+0 - Fists of the Demigod
+0 - Shriekmaw
+0 - Recycle
+0 - Hurly-Burly
+0 - Grasp of Phantoms
+0 - Sarkhan the Mad
+0 - Glowing Anemone
+0 - Crush of Tentacles
+0 - Whirling Dervish
+0 - Hisoka, Minamo Sensei
+0 - Song of Freyalise
+0 - Tenza, Godo's Maul
+0 - S.N.O.T.
+0 - Hatred
+0 - Su-Chi
+0 - Soaring Show-Off
+0 - Will-o'-the-Wisp
+0 - Angel's Trumpet
+0 - Stop That
+0 - Unsummon
+0 - Ruthless Knave
+0 - Mizzium Transreliquat
+0 - Propaganda
+0 - Winnow
+0 - Followed Footsteps
+0 - Everythingamajig
+0 - O-Naginata
+0 - Ragamuffyn
+0 - Profit // Loss
+0 - Demon of Dark Schemes
+0 - Toy Boat
+0 - Agent of Shauku
+0 - Tolaria West
+0 - Supply-Line Cranes
+0 - Pyromancer's Swath
+0 - Mystic Remora
+0 - Wall of Limbs
+0 - Catastrophe
+0 - Hum of the Radix
+0 - Nucklavee
+0 - Life Goes On
+0 - As Luck Would Have It
+0 - Silkwrap
+0 - Amulet of Quoz
+0 - Gruul War Plow
+0 - Thumbscrews
+0 - Common Iguana
+0 - Woodland Sleuth
+0 - Grozoth
+0 - Profane Memento
+0 - Strangling Soot
+0 - Sirocco
+0 - Oath of Nissa
+0 - Meletis Astronomer
+0 - Bladewing the Risen
+0 - Arcane Encyclopedia
+0 - Kwende, Pride of Femeref
+0 - Servant of Tymaret
+0 - Tornado
+0 - Disaster Radius
+0 - Horribly Awry
+0 - Skyscribing
+0 - Skull Saucer
+0 - Misfortune's Gain
+0 - Order of Leitbur
+0 - Jack-in-the-Mox
+0 - Genju of the Fens
+0 - Tremor
+0 - Mind Bend
+0 - Befoul
+0 - Little Girl
+0 - Signal Pest
+0 - Endure
+0 - Sorcerer's Strongbox
+0 - Putrefax
+0 - Oust
+0 - Floral Spuzzem
+0 - Darba
+0 - Inexorable Blob
+0 - Snowblind
+0 - Fireball
+0 - Entreat the Angels
+0 - Snapping Thragg
+0 - Goblin Mime
+0 - Deflecting Palm
+0 - Specter's Shroud
+0 - Aetherworks Marvel
+0 - Grazing Gladehart
+0 - Muck Drubb
+0 - Protection of the Hekma
+0 - Pernicious Deed
+0 - Boggart Ram-Gang
+0 - Prossh, Skyraider of Kher
+0 - Promise of Bunrei
+0 - Riders of Gavony
+0 - Reki, the History of Kamigawa
+0 - Jokulhaups
+0 - Godsend
+0 - Tidal Bore
+0 - Stupor
+0 - Kagemaro, First to Suffer
+0 - Delraich
+0 - Druidic Satchel
+0 - Sea Scryer
+0 - Logic Knot
+0 - Success!
+0 - Kyoki, Sanity's Eclipse
+0 - Aim High
+0 - Lobotomy
+0 - Oath of Liliana
+0 - Shyft
+0 - Python
+0 - Groffskithur
+0 - Fall of the Thran
+0 - Abu Ja'far
+0 - Dack Fayden
+0 - Patron of the Orochi
+0 - Hammerheim
+0 - Steamflogger Temp
+0 - Absorb
+0 - Scholar of Athreos
+0 - Azorius Chancery
+0 - Kusari-Gama
+0 - Look at Me, I'm R&D
+0 - Graceful Antelope
+0 - Unyielding Krumar
+0 - Fertilid
+0 - Armageddon
+0 - Darigaaz's Caldera
+0 - Aladdin
+0 - Long-Forgotten Gohei
+0 - Lieutenant Kirtar
+0 - Vile Bile
+0 - Fortunate Few
+0 - Goblin Cadets
+0 - Wizened Cenn
+0 - I'm Rubber, You're Glue
+0 - Coffin Puppets
+0 - Ancient Ziggurat
+0 - Pyrohemia
+0 - Boneyard Parley
+0 - Domri Rade
+0 - Ob Nixilis, Unshackled
+0 - Forlorn Pseudamma
+0 - Firecat Blitz
+0 - Mental Note
+0 - Shielding Plax
+0 - Pariah
+0 - Incoming!
+0 - Chrome Mox
+0 - Imperious Perfect
+0 - Blessed Wine
+0 - Venser, the Sojourner
+0 - Tek
+0 - Corpse Churn
+0 - Hypnox
+0 - Rules Lawyer
+0 - Vigor Mortis
+0 - Hymn to Tourach
+0 - Cancel
+0 - Soul Echo
+0 - Inundate
+0 - Coveted Peacock
+0 - Mundungu
+0 - Ur-Drago
+0 - Telim'Tor
+0 - Patron of the Akki
+0 - Crucible of Worlds
+0 - Jhoira of the Ghitu
+0 - Berserk Murlodont
+0 - Hair-Strung Koto
+0 - Squee, Goblin Nabob
+0 - Skulltap
+0 - Teferi's Puzzle Box
+0 - Fog Bank
+0 - Sorry
+0 - Anax and Cymede
+0 - "Rumors of My Death . . ."
+0 - Vigean Hydropon
+0 - Nimbus of the Isles
+0 - Anthem of Rakdos
+0 - Skirk Ridge Exhumer
+0 - Tainted Peak
+0 - Aisling Leprechaun
+0 - Lifegift
+0 - Steamflogger Service Rep
+0 - Long Road Home
+0 - Barrel Down Sokenzan
+0 - Aura Finesse
+0 - Uncle Istvan
+0 - Curse of Wizardry
+0 - Obelisk of Naya
+0 - Arcum's Sleigh
+0 - Liu Bei, Lord of Shu
+0 - Plateau
+0 - Alms
+0 - Dispel
+0 - Offering to Asha
+0 - Delif's Cone
+0 - Dukhara Peafowl
+0 - Even the Odds
+0 - Glimmerdust Nap
+0 - Forget
+0 - Ravenous Leucrocota
+0 - Clock of DOOOOOOOOOOOOM!
+0 - Neko-Te
+0 - Jungle Basin
+0 - Balthor the Stout
+0 - Slithermuse
+0 - Blood Baron of Vizkopa
+0 - Ral Zarek
+0 - Devout Harpist
+0 - Bamboozle
+0 - Shivan Meteor
+0 - Mirrorpool
+0 - Paradise Plume
+0 - Catalog
+0 - Sunset Pyramid
+0 - Fanatic of Xenagos
+0 - Lovisa Coldeyes
+0 - Dovin Baan
+0 - Gruul Turf
+0 - X
+0 - Circle of Protection: Art
+0 - Snorting Gahr
+0 - Grim Haruspex
+0 - Reyhan, Last of the Abzan
+0 - Avarax
+0 - Skittering Crustacean
+0 - Invasive Species
+0 - Jace Beleren
+0 - Gimme Five
+0 - Ali Baba
+0 - Desperate Castaways
+0 - Eureka
+0 - Index
+0 - Drowned Catacomb
+0 - Reveillark
+0 - Spreading Algae
+0 - Dragonlord Kolaghan
+0 - Priests of Norn
+0 - Labro Bot
+0 - Infest
+0 - Shahrazad
+0 - Scavenger Folk
+0 - Temmet, Vizier of Naktamun
+0 - Farmstead
+0 - Jacques le Vert
+0 - Messenger Jays
+0 - Bloodfire Expert
+0 - Hazmat Suit (Used)
+0 - Goblin Gaveleer
+0 - Phyrexian Gargantua
+0 - Strength of the Tajuru
+0 - Dismiss
+0 - Muraganda Petroglyphs
+0 - Bubbling Muck
+0 - Golgari Longlegs
+0 - Sapling of Colfenor
+0 - Island of Wak-Wak
+0 - Krazy Kow
+0 - Gelectrode
+0 - Urabrask the Hidden
+0 - Honor of the Pure
+0 - Obelisk of Urd
+0 - Blighted Fen
+0 - Solfatara
+0 - Thriving Grubs
+0 - Skull of Orm
+0 - Pollen Lullaby
+0 - Venomspout Brackus
+0 - Orzhova, the Church of Deals
+0 - Creeping Mold
+0 - Turn Aside
+0 - Thud-for-Duds
+0 - Olivia Voldaren
+0 - Aysen Highway
+0 - Glaring Aegis
+0 - Primalcrux
+0 - Oraxid
+0 - Control of the Court
+0 - Isolated Chapel
+0 - Mind Peel
+0 - Terminal Moraine
+0 - Skullcrack
+0 - Illusionist's Stratagem
+0 - Suspicious Bookcase
+0 - Adarkar Valkyrie
+0 - Despise
+0 - Punish the Enemy
+0 - Crocanura
+0 - Magistrate's Veto
+0 - Runechanter's Pike
+0 - Hurricane
+0 - Corrupt Eunuchs
+0 - Duh
+0 - Energy Tap
+0 - Xira Arien
+0 - Horror of the Dim
+0 - Zephid
+0 - Reap and Sow
+0 - Narcissism
+0 - Brilliant Spectrum
+0 - B.F.M. (Big Furry Monster)
+0 - Dwynen, Gilt-Leaf Daen
+0 - Assembly Hall
+0 - Emcee
+0 - Colossus of Sardia
+0 - Kataki, War's Wage
+0 - Apocalypse Chime
+0 - Street Savvy
+0 - General Tazri
+0 - Phyrexian Scuta
+0 - Mouth of Ronom
+0 - Savannah
+0 - Zodiac Rabbit
+0 - Prakhata Pillar-Bug
+0 - Unspeakable Symbol
+0 - Sick and Tired
+0 - Bone Saw
+0 - Oath of Ajani
+0 - Unmask
+0 - Chaos Imps
+0 - Drekavac
+0 - Voidwalk
+0 - Umbilicus
+0 - Warmth
+0 - Crowned Ceratok
+0 - Word of Seizing
+0 - Sphere of Safety
+0 - Hope of Ghirapur
+0 - Slumbering Tora
+0 - Nebuchadnezzar
+0 - Candles' Glow
+0 - Cleaver Riot
+0 - Arcades Sabboth
+0 - Kaboom!
+0 - Shimatsu the Bloodcloaked
+0 - Nantuko Calmer
+0 - Reset
+0 - Mary O'Kill
+0 - Time Ebb
+0 - Necrologia
+0 - Psychotic Episode
+0 - Kraken of the Straits
+0 - Pyramids
+0 - Vulshok Refugee
+0 - Unbender Tine
+0 - Guardian of Pilgrims
+0 - Wear // Tear
+0 - Soul of the Rapids
+0 - Man-o'-War
+0 - Macabre Waltz
+0 - Illusions of Grandeur
+0 - Doomgape
+0 - Snarling Undorak
+0 - Truth or Tale
+0 - Rile
+0 - Mogg Toady
+0 - Goblin War Drums
+0 - Maro
+0 - Dirty Wererat 
+0 - Rhino-
+0 - Electryte
+0 - Vivid Creek
+0 - Debtor's Pulpit
+0 - Daze
+0 - Nefashu
+0 - Thoughtbound Primoc
+0 - Heirs of Stromkirk
+0 - Diminishing Returns
+0 - Panacea
+0 - Tower of Coireall
+0 - Laughing Hyena
+0 - Null Brooch
+0 - Putrefy
+0 - Drop of Honey
+0 - Surreal Memoir
+0 - Roaring Primadox
+0 - Tarpan
+0 - Sensei Golden-Tail
+0 - Ostracize
+0 - Joven
+0 - Gifts Ungiven
+0 - Batwing Brume
+0 - Giant Dustwasp
+0 - Mana Screw
+0 - Disciple of Kangee
+0 - Soul of Ravnica
+0 - Thalia, Guardian of Thraben
+0 - Lord of the Undead
+0 - Hold at Bay
+0 - Glare of Heresy
+0 - Blood Lust
+0 - Myth Realized
+0 - Welcome to the Fold
+0 - Rustic Clachan
+0 - Failure // Comply
+0 - Disfigure
+0 - Crypsis
+0 - Robo-
+0 - Red Cliffs Armada
+0 - Jandor's Saddlebags
+0 - Narwhal
+0 - Outrider of Jhess
+0 - Pyroclast Consul
+0 - Kaysa
+0 - Bazaar of Baghdad
+0 - Rakshasa's Secret
+0 - Goblin Goon
+0 - Nausea
+0 - Sewerdreg
+0 - Animal Magnetism
+0 - Scald
+0 - Biorhythm
+0 - Thorn of Amethyst
+0 - Lady Orca
+0 - Ethereal Whiskergill
+0 - Banshee of the Dread Choir
+0 - Relearn
+0 - Buried Alive
+0 - Geist of the Moors
+0 - Vebulid
+0 - Soul of Magma
+0 - Rubblebelt Maaka
+0 - Dictate of Karametra
+0 - Gush
+0 - Kongming, "Sleeping Dragon"
+0 - Nyxathid
+0 - Spirebluff Canal
+0 - No-Dachi
+0 - Scouting Trek
+0 - Wipe Clean
+0 - Liquify
+0 - Messenger Falcons
+0 - Life's Finale
+0 - Smallpox
+0 - Rebuild
+0 - Archangel of Strife
+0 - Ajani Steadfast
+0 - Allied Strategies
+0 - Glamerdye
+0 - Soulsworn Jury
+0 - Aboshan, Cephalid Emperor
+0 - Kresh the Bloodbraided
+0 - Mox Opal
+0 - Sacred White Deer
+0 - Who // What // When // Where // Why
+0 - Launch the Fleet
+0 - Earth-Origin Yak
+0 - Immobilizing Ink
+0 - Behind the Scenes
+0 - Secret Base
+0 - Peace and Quiet
+0 - Gibbering Hyenas
+0 - Consulate Turret
+0 - Fountain of Cho
+0 - Waylay
+0 - First Pick
+0 - Daring Skyjek
+0 - Initiate of Blood // Goka the Unjust
+0 - Avatar of Me
+0 - Grave Peril
+0 - Richard Garfield, Ph.D.
+0 - Carnivorous Death-Parrot
+0 - Life from the Loam
+0 - Elspeth Tirel
+0 - Fresh Meat
+0 - Framed!
+0 - Just Desserts
+0 - Squelch
+0 - Cavern Lampad
+0 - Empress Galina
+0 - Antagonism
+0 - Allay
+0 - Reality Anchor
+0 - To Arms!
+0 - Aysen Abbey
+0 - Healing Salve
+0 - Death Denied
+0 - Dandân
+0 - Stomping Slabs
+0 - Slate Street Ruffian
+0 - Ire of Kaminari
+0 - Taiga
+0 - Ali from Cairo
+0 - Ancient Carp
+0 - Sky Skiff
+0 - Hush
+0 - Weaponcraft Enthusiast
+0 - Envelop
+0 - Whip Silk
+0 - Archaeological Dig
+0 - Gift of the Deity
+0 - Morinfen
+0 - Goblin Turncoat
+0 - Eunuchs' Intrigues
+0 - Sun Quan, Lord of Wu
+0 - Sequestered Stash
+0 - Alarum
+0 - Debtors' Knell
+0 - Luminesce
+0 - Ghoultree
+0 - Wax // Wane
+0 - Vendetta
+0 - Fungal Plots
+0 - Hydromorph Gull
+0 - Prime Speaker Zegana
+0 - Medicine Bag
+0 - Memory Sluice
+0 - Deadly Insect
+0 - Prison Term
+0 - Anarchy
+0 - Foundry Hornet
+0 - Sigiled Skink
+0 - Seat of the Synod
+0 - Savra, Queen of the Golgari
+0 - Riding Red Hare
+0 - Ransack
+0 - Armored Cancrix
+0 - Jedit Ojanen
+0 - Ruins of Oran-Rief
+0 - Heartless Hidetsugu
+0 - Graxiplon
+0 - Shuko
+0 - Porphyry Nodes
+0 - Highland Weald
+0 - Panharmonicon
+0 - Berserk
+0 - Breath of Darigaaz
+0 - Wall of Forgotten Pharaohs
+0 - Raging Bull
+0 - Major Teroh
+0 - Nighthaze
+0 - Lifetap
+0 - Erase
+0 - Mox Pearl
+0 - Birthing Pod
+0 - Humming-
+0 - Skizzik
+0 - Rites of Refusal
+0 - Black Vise
+0 - Draco
+0 - Illuminated Folio
+0 - Sleeper's Robe
+0 - Mindstab
+0 - Zodiac Pig
+0 - Last Laugh
+0 - Leonin Abunas
+0 - Dragonlord Atarka
+0 - Orcish Oriflamme
+0 - Okk
+0 - Kami of Tattered Shoji
+0 - Humble Budoka
+0 - Samut, the Tested
+0 - Ruhan of the Fomori
+0 - Book of Rass
+0 - Bring Low
+0 - Serra's Liturgy
+0 - Locket of Yesterdays
+0 - Mine, Mine, Mine!
+0 - Runes of the Deus
+0 - Flying Men
+0 - Angelic Chorus
+0 - Nessian Demolok
+0 - Mirari
+0 - Jeweled Bird
+0 - Staff of Zegon
+0 - Expedite
+0 - Jiang Yanggu
+0 - Titanic Bulvox
+0 - Pili-Pala
+0 - Palladia-Mors
+0 - Gwendlyn Di Corci
+0 - Bayou
+0 - Sunweb
+0 - Venarian Gold
+0 - Unstable Frontier
+0 - Feint
+0 - Cloudstone Curio
+0 - Pacifism
+0 - Jhoira's Toolbox
+0 - Ferocious Zheng
+0 - Absorb Vis
+0 - Towering Indrik
+0 - Destructive Revelry
+0 - Paragon of New Dawns
+0 - Ichor Slick
+0 - Swift Kick
+0 - Sidar Kondo of Jamuraa
+0 - Magmaw
+0 - Frankie Peanuts
+0 - Spider Climb
+0 - Blistering Dieflyn
+0 - Chromium
+0 - Brothers Yamazaki
+0 - Petravark
+0 - Darien, King of Kjeldor
+0 - Question Elemental?
+0 - Norritt
+0 - Punctuate
+0 - Plummet
+0 - Gleemax
+0 - Vivien Reid
+0 - Nav Squad Commandos
+0 - Simoon
+0 - Rest for the Weary
+0 - Throne of Geth
+0 - Tooth and Nail
+0 - Executioner's Hood
+0 - Resupply
+0 - Phoebe, Head of S.N.E.A.K.
+0 - Drelnoch
+0 - Rowen
+0 - Baleful Stare
+0 - Lucent Liminid
+0 - Silverclad Ferocidons
+0 - Gerrard Capashen
+0 - Paraselene
+0 - Land Aid '04
+0 - Overrule
+0 - Hound of the Farbogs
+0 - Cloudchaser Kestrel
+0 - Crackleburr
+0 - Agent of Masks
+0 - Built to Last
+0 - Unifying Theory
+0 - Wall of Razors
+0 - Gonti, Lord of Luxury
+0 - Wetland Sambar
+0 - Combust
+0 - Wall of Nets
+0 - Sivitri Scarzam
+0 - Hot Soup
+0 - Counsel of the Soratami
+0 - Millikin
+0 - Remove
+0 - Pheres-Band Thunderhoof
+0 - Hypnotic Swirly Disc
+0 - Repay in Kind
+0 - Scourge of the Nobilis
+0 - Shrieking Mogg
+0 - Soul of Shandalar
+0 - Memorial to Folly
+0 - Frontier Bivouac
+0 - Hero of Goma Fada
+0 - Boom // Bust
+0 - Helm of Chatzuk
+0 - Ruinous Gremlin
+0 - Staff of Nin
+0 - Fraction Jackson
+0 - Hazezon Tamar
+0 - Scent of Ivy
+0 - Repel
+0 - Collected Company
+0 - Arachnoid
+0 - Prismatic Lace
+0 - Thieving Magpie
